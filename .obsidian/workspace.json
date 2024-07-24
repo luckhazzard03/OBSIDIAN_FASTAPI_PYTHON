@@ -13,26 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/1.0 DOCUMENTACIÓN.md",
+                "file": "FastAPI/0.1 INSTALACIÓN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f4d312723a5ed0c8",
+            "id": "eda6d67f34a3f543",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "FastAPI/IMAGENES FASTAPI/Pasted image 20240724100125.png"
+              }
+            }
+          },
+          {
+            "id": "c22ecb7a3904a794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FastAPI/1.2 ORGANIZAR APP.md",
+                "file": "FastAPI/4.0 Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ee542436b7b0c7e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b46679f74233febc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastAPI/6.0 TEMPLATES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8f899cb074f2cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FastAPI/0.0FASTAPI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#src_main_app",
+                "query": "tag:#endpoints",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FastAPI/1.2 ORGANIZAR APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FastAPI/1.2 ORGANIZAR APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "FastAPI/1.2 ORGANIZAR APP.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,14 +197,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "269780bdc71b032e",
+  "active": "0ee542436b7b0c7e",
   "lastOpenFiles": [
-    "Pasted image 20240723134647.png",
-    "Pasted image 20240723134632.png",
-    "FastAPI/1.2 ORGANIZAR APP.md",
-    "FastAPI/0.INSTALACIÓN.md",
-    "FastAPI/1.0 DOCUMENTACIÓN.md",
+    "FastAPI/7.0 DEPENDENCIAS.md",
+    "FastAPI/4.0 Main.md",
+    "FastAPI/5.0 STATIC.md",
     "FastAPI/0.0FASTAPI.md",
+    "FastAPI/6.0 TEMPLATES.md",
+    "FastAPI/IMAGENES FASTAPI/Pasted image 20240723134632.png",
+    "FastAPI/IMAGENES FASTAPI/Pasted image 20240724100125.png",
+    "FastAPI/IMAGENES FASTAPI/Pasted image 20240724100059.png",
+    "FastAPI/IMAGENES FASTAPI",
+    "FastAPI/0.1 INSTALACIÓN.md",
+    "FastAPI/1.0 MODELS.md",
+    "FastAPI/3.0 MIDDLEWARE.md",
+    "FastAPI/2.0 ROUTERS.md",
+    "FastAPI/IMAGENES FASTAPI/Pasted image 20240724100033.png",
+    "FastAPI/IMAGENES FASTAPI/Pasted image 20240724100005.png",
+    "FastAPI/IMAGENES FASTAPI/Pasted image 20240724095904.png",
+    "FastAPI/IMAGENES FASTAPI/Pasted image 20240724095733.png",
+    "FastAPI/IMAGENES FASTAPI/Pasted image 20240724094656.png",
+    "FastAPI/IMAGENES FASTAPI/Pasted image 20240724090012.png",
+    "FastAPI/IMAGENES FASTAPI/Pasted image 20240724085725.png",
     "PYTHON/0. COMANDOS POR CONSOLA.md",
     "PYTHON/6.0 BUCLES FOR Y WHILE.md",
     "PYTHON/5.0 OPERACIONES DE CORTO CIRCUITO.md",
@@ -186,8 +238,6 @@
     "CREAR.md",
     "DOCUMENTACIÓN DE PATH EN PYTHON.md",
     "Bienvenido.md",
-    "PYTHON",
-    "CREAR PYTHON.md",
-    "CREAR EN PYTHON.md"
+    "PYTHON"
   ]
 }
