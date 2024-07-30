@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "d12683cc36f47ad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "60eeb2dc57a6ff35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0703397419813d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT HUB/7.0 Restaurando archivos eliminados.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "280180a75cf0b33c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d22feb9fb89011a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "269780bdc71b032e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2ab3210b3de0629",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#stash",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fc663439828cc633",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c53a1600bd394abb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9444aca9d939dcad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f94591e0b5a9bf18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GIT HUB/7.0 Restaurando archivos eliminados.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f7a1a993d3b3a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GIT HUB/7.0 Restaurando archivos eliminados.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c472a7a190cd53c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d324da908befa8d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GIT HUB/7.0 Restaurando archivos eliminados.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b0703397419813d9",
+  "lastOpenFiles": [
+    "FastAPI/6.0 TEMPLATES.md",
+    "GIT HUB/8.0 .gitignore.md",
+    "GIT HUB/15. Revertir un commit.md",
+    "GIT HUB/img/Pasted image 20240730161931.png",
+    "GIT HUB/7.0 Restaurando archivos eliminados.md",
+    "GIT HUB/9.0 Etiquetas git tag.md",
+    "GIT HUB/1.0 FILTRADO POR FECHA DE LOS COMMITS.md",
+    "GIT HUB/13. TIPOS DE MERGE.md",
+    "GIT HUB/10. Encontrando errores  BUGS CON BISECT.md",
+    "GIT HUB/14. Resolver Conflictos.md",
+    "GIT HUB/img",
+    "GIT HUB/img/Pasted image 20240730141107.png",
+    "GIT HUB/img/Pasted image 20240730140947.png",
+    "GIT HUB/12. Stash.md",
+    "GIT HUB/11. Gestor de Ramas.md",
+    "GIT HUB/5.0 GIT CHECKOUT.md",
+    "GIT HUB/0.0 Sistema de control de versiones.md",
+    "GIT HUB/2.0 Crear Alias.md",
+    "GIT HUB/3.0 GIT SHOW.md",
+    "GIT HUB/4.0 GIT DIFF.md",
+    "GIT HUB/6.0 Shortlog.md",
+    "FastAPI/0.1 INSTALACIÓN.md",
+    "FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
+    "GIT HUB",
+    "FastAPI/1.0 MODELS.md",
+    "FastAPI/0.0FASTAPI.md",
+    "FASAPI-SQL",
+    "AUTENTICACIÓN FASTAPI/2.1 Variable de entorno.md",
+    "AUTENTICACIÓN FASTAPI/1.0 main.py.md",
+    "AUTENTICACIÓN FASTAPI/0.0 OAuth2.md",
+    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141505.png",
+    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN",
+    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141444.png",
+    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141414.png",
+    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141214.png",
+    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141042.png",
+    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725140954.png",
+    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725104642.png",
+    "PYTHON/8.0 TUPLAS.md",
+    "PYTHON/7.0 TIPOS AVANZADOS.md",
+    "AUTENTICACIÓN FASTAPI",
+    "FastAPI/IMAGENES FASTAPI",
+    "FastAPI",
+    "PYTHON/Manipulación de archivos",
+    "PYTHON"
+  ]
+}
