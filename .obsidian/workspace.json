@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT HUB/7.0 Restaurando archivos eliminados.md",
+                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14bce943ea473a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT HUB Trabajo_Equipo/2.0 Fetch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#stash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT HUB/7.0 Restaurando archivos eliminados.md",
+                "file": "GIT HUB Trabajo_Equipo/2.0 Fetch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT HUB/7.0 Restaurando archivos eliminados.md",
+                "file": "GIT HUB Trabajo_Equipo/2.0 Fetch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT HUB/7.0 Restaurando archivos eliminados.md"
+                "file": "GIT HUB Trabajo_Equipo/2.0 Fetch.md"
               }
             }
           }
@@ -146,26 +159,35 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b0703397419813d9",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
-    "FastAPI/6.0 TEMPLATES.md",
+    "GIT HUB Trabajo_Equipo/3.0 Pull.md",
+    "GIT HUB/14. Resolver Conflictos.md",
+    "GIT HUB/10. Encontrando errores  BUGS CON BISECT.md",
+    "GIT HUB Trabajo_Equipo/2.0 Fetch.md",
+    "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
+    "GIT HUB/11. Gestor de Ramas.md",
+    "FastAPI/0.0FASTAPI.md",
+    "AUTENTICACIÓN FASTAPI/1.0 main.py.md",
+    "AUTENTICACIÓN FASTAPI/2.1 Variable de entorno.md",
+    "GIT HUB Trabajo_Equipo/ImgTrbajoEquipo",
+    "GIT HUB Trabajo_Equipo/ImgTrbajoEquipo/Captura de pantalla 2024-07-31 113254.png",
+    "GIT HUB Trabajo_Equipo",
+    "GIT HUB/13. TIPOS DE MERGE.md",
+    "GIT HUB/2.0 Crear Alias.md",
     "GIT HUB/8.0 .gitignore.md",
+    "GIT HUB/7.0 Restaurando archivos eliminados.md",
+    "FastAPI/6.0 TEMPLATES.md",
     "GIT HUB/15. Revertir un commit.md",
     "GIT HUB/img/Pasted image 20240730161931.png",
-    "GIT HUB/7.0 Restaurando archivos eliminados.md",
     "GIT HUB/9.0 Etiquetas git tag.md",
     "GIT HUB/1.0 FILTRADO POR FECHA DE LOS COMMITS.md",
-    "GIT HUB/13. TIPOS DE MERGE.md",
-    "GIT HUB/10. Encontrando errores  BUGS CON BISECT.md",
-    "GIT HUB/14. Resolver Conflictos.md",
     "GIT HUB/img",
     "GIT HUB/img/Pasted image 20240730141107.png",
     "GIT HUB/img/Pasted image 20240730140947.png",
     "GIT HUB/12. Stash.md",
-    "GIT HUB/11. Gestor de Ramas.md",
     "GIT HUB/5.0 GIT CHECKOUT.md",
     "GIT HUB/0.0 Sistema de control de versiones.md",
-    "GIT HUB/2.0 Crear Alias.md",
     "GIT HUB/3.0 GIT SHOW.md",
     "GIT HUB/4.0 GIT DIFF.md",
     "GIT HUB/6.0 Shortlog.md",
@@ -173,11 +195,7 @@
     "FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
     "GIT HUB",
     "FastAPI/1.0 MODELS.md",
-    "FastAPI/0.0FASTAPI.md",
     "FASAPI-SQL",
-    "AUTENTICACIÓN FASTAPI/2.1 Variable de entorno.md",
-    "AUTENTICACIÓN FASTAPI/1.0 main.py.md",
-    "AUTENTICACIÓN FASTAPI/0.0 OAuth2.md",
     "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141505.png",
     "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN",
     "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141444.png",
@@ -185,13 +203,9 @@
     "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141214.png",
     "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141042.png",
     "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725140954.png",
-    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725104642.png",
-    "PYTHON/8.0 TUPLAS.md",
-    "PYTHON/7.0 TIPOS AVANZADOS.md",
     "AUTENTICACIÓN FASTAPI",
     "FastAPI/IMAGENES FASTAPI",
     "FastAPI",
-    "PYTHON/Manipulación de archivos",
-    "PYTHON"
+    "PYTHON/Manipulación de archivos"
   ]
 }
