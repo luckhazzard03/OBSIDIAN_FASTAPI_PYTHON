@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT HUB/11. Gestor de Ramas.md",
+                "file": "GIT HUB/15. Revertir un commit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT HUB/11. Gestor de Ramas.md",
+                "file": "GIT HUB/15. Revertir un commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT HUB/11. Gestor de Ramas.md",
+                "file": "GIT HUB/15. Revertir un commit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT HUB/11. Gestor de Ramas.md"
+                "file": "GIT HUB/15. Revertir un commit.md"
               }
             }
           }
@@ -148,16 +148,16 @@
   },
   "active": "b0703397419813d9",
   "lastOpenFiles": [
+    "GIT HUB/8.0 .gitignore.md",
+    "GIT HUB/11. Gestor de Ramas.md",
     "GIT HUB/5.0 GIT CHECKOUT.md",
     "GIT HUB/15. Revertir un commit.md",
     "GIT HUB Trabajo_Equipo/3.0 Pull.md",
     "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
     "GIT HUB Trabajo_Equipo/2.0 Fetch.md",
     "GIT HUB/9.0 Etiquetas git tag.md",
-    "GIT HUB/8.0 .gitignore.md",
     "GIT HUB/14. Resolver Conflictos.md",
     "GIT HUB/10. Encontrando errores  BUGS CON BISECT.md",
-    "GIT HUB/11. Gestor de Ramas.md",
     "FastAPI/0.0FASTAPI.md",
     "AUTENTICACIÓN FASTAPI/1.0 main.py.md",
     "AUTENTICACIÓN FASTAPI/2.1 Variable de entorno.md",
