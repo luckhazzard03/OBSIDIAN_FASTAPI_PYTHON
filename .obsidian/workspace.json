@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#variableEntorno",
+                "query": "tag:#dockerRun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c53a1600bd394abb",
@@ -148,6 +148,8 @@
   },
   "active": "269780bdc71b032e",
   "lastOpenFiles": [
+    "DOCKER/IMG_DOCKER",
+    "DOCKER/IMG_DOCKER/Pasted image 20240802122026.png",
     "DOCKER/1. TERMINAL LINUX.md",
     "LINUX",
     "DOCKER",
@@ -182,7 +184,6 @@
     "GIT HUB/4.0 GIT DIFF.md",
     "GIT HUB/6.0 Shortlog.md",
     "FastAPI/0.1 INSTALACIÓN.md",
-    "FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
     "GIT HUB",
     "FASAPI-SQL",
     "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141505.png",
@@ -191,7 +192,6 @@
     "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141414.png",
     "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141214.png",
     "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725141042.png",
-    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN/Pasted image 20240725140954.png",
     "AUTENTICACIÓN FASTAPI",
     "FastAPI/IMAGENES FASTAPI"
   ]
