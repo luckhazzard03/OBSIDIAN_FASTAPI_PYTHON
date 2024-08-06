@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/6.0 BUCLES FOR Y WHILE.md",
+                "file": "DOCKER/5. Guardar imagen en un archivo comprimido.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#BorrarContenedorCondicional",
+                "query": "tag:#dockerRun",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/6.0 BUCLES FOR Y WHILE.md",
+                "file": "DOCKER/5. Guardar imagen en un archivo comprimido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/6.0 BUCLES FOR Y WHILE.md",
+                "file": "DOCKER/5. Guardar imagen en un archivo comprimido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/6.0 BUCLES FOR Y WHILE.md"
+                "file": "DOCKER/5. Guardar imagen en un archivo comprimido.md"
               }
             }
           }
@@ -147,19 +147,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "39b47b6cc4110418",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
+    "DOCKER/4. Eliminando contenedores.md",
+    "DOCKER/5. Guardar imagen en un archivo comprimido.md",
+    "DOCKER/1. TERMINAL LINUX.md",
+    "DOCKER/IMG_DOCKER/Pasted image 20240806115616.png",
+    "DOCKER/2. Ejecutando primera imagen.md",
+    "DOCKER/3. Reinicio de un contenedor Docker.md",
+    "PYTHON/6.0 BUCLES FOR Y WHILE.md",
     "PYTHON/5.0 OPERACIONES DE CORTO CIRCUITO.md",
     "PYTHON/4.0 OPERADORES LOGICOS.md",
     "PYTHON/3.0 CONVERSIÓN DE TIPOS.md",
     "PYTHON/2.0 METODOS STRING.md",
     "PYTHON/1.0 LIBRERIA MATH.md",
     "PYTHON/0. COMANDOS POR CONSOLA.md",
-    "DOCKER/4. Eliminando contenedores.md",
     "DOCKER/IMG_DOCKER/Pasted image 20240805155649.png",
-    "DOCKER/2. Ejecutando primera imagen.md",
-    "DOCKER/3. Reinicio de un contenedor Docker.md",
-    "DOCKER/1. TERMINAL LINUX.md",
     "DOCKER/IMG_DOCKER/Pasted image 20240805093434.png",
     "DOCKER/IMG_DOCKER/Pasted image 20240805093358.png",
     "DOCKER/IMG_DOCKER/Pasted image 20240805093306.png",
@@ -168,7 +171,6 @@
     "DOCKER/IMG_DOCKER/Pasted image 20240805082253.png",
     "DOCKER/IMG_DOCKER/Pasted image 20240805080914.png",
     "DOCKER/IMG_DOCKER/Pasted image 20240805080755.png",
-    "DOCKER/IMG_DOCKER/Pasted image 20240805080637.png",
     "DOCKER/IMG_DOCKER",
     "LINUX",
     "DOCKER",
@@ -187,9 +189,6 @@
     "AUTENTICACIÓN FASTAPI/2.1 Variable de entorno.md",
     "GIT HUB Trabajo_Equipo/ImgTrbajoEquipo",
     "GIT HUB Trabajo_Equipo",
-    "GIT HUB/13. TIPOS DE MERGE.md",
-    "GIT HUB/2.0 Crear Alias.md",
-    "GIT HUB/7.0 Restaurando archivos eliminados.md",
     "GIT HUB/img",
     "GIT HUB",
     "FASAPI-SQL",
