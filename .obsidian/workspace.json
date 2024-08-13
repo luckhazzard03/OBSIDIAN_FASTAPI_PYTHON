@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCKER/6. Dockerizar proyecto.md",
+                "file": "SONARQUBE/2. Instalar SonarQube desde la imagen de Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81209b32a165ce2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SONARQUBE/3. Descripción proyecto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#docker-composeYml",
+                "query": "tag:#sonarqube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOCKER/6. Dockerizar proyecto.md",
+                "file": "SONARQUBE/3. Descripción proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOCKER/6. Dockerizar proyecto.md",
+                "file": "SONARQUBE/3. Descripción proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOCKER/6. Dockerizar proyecto.md"
+                "file": "SONARQUBE/3. Descripción proyecto.md"
               }
             }
           }
@@ -149,10 +162,14 @@
   },
   "active": "269780bdc71b032e",
   "lastOpenFiles": [
+    "SONARQUBE/2. Instalar SonarQube desde la imagen de Docker.md",
+    "SONARQUBE/3. Descripción proyecto.md",
+    "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
+    "DOCKER/6. Dockerizar proyecto.md",
+    "SONARQUBE",
     "DOCKER/IMG_DOCKER/Pasted image 20240812150612.png",
     "DOCKER/IMG_DOCKER/Pasted image 20240812150551.png",
     "DOCKER/IMG_DOCKER/Pasted image 20240812150515.png",
-    "DOCKER/6. Dockerizar proyecto.md",
     "DOCKER/IMG_DOCKER/Pasted image 20240812140718.png",
     "DOCKER/5. Guardar imagen en un archivo comprimido.md",
     "DOCKER/4. Eliminando contenedores.md",
@@ -176,7 +193,6 @@
     "DOCKER/IMG_DOCKER/Pasted image 20240805155649.png",
     "DOCKER/IMG_DOCKER/Pasted image 20240805093434.png",
     "DOCKER/IMG_DOCKER/Pasted image 20240805093358.png",
-    "DOCKER/IMG_DOCKER/Pasted image 20240805093306.png",
     "DOCKER/IMG_DOCKER",
     "LINUX",
     "DOCKER",
@@ -186,14 +202,11 @@
     "GIT HUB/5.0 GIT CHECKOUT.md",
     "GIT HUB Trabajo_Equipo/3.0 Pull.md",
     "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
-    "GIT HUB Trabajo_Equipo/2.0 Fetch.md",
-    "GIT HUB/9.0 Etiquetas git tag.md",
     "GIT HUB Trabajo_Equipo/ImgTrbajoEquipo",
     "GIT HUB Trabajo_Equipo",
     "GIT HUB/img",
     "GIT HUB",
     "FASAPI-SQL",
-    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN",
-    "AUTENTICACIÓN FASTAPI"
+    "AUTENTICACIÓN FASTAPI/IMG-AUTENTICACIÓN"
   ]
 }
