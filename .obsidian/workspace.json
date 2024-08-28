@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "02f6cb88ade25134",
+        "id": "d53726d24ef6eafe",
         "type": "tabs",
         "children": [
           {
-            "id": "6fd7f4b74b78d681",
+            "id": "fec38298103abb5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diapositiva 11y 17.md",
+                "file": "PYTHON/9.0 POO.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c53a1600bd394abb",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diapositiva 11y 17.md",
+                "file": "PYTHON/9.0 POO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diapositiva 11y 17.md",
+                "file": "PYTHON/9.0 POO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diapositiva 11y 17.md"
+                "file": "PYTHON/9.0 POO.md"
               }
             }
           }
@@ -147,23 +148,29 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "6fd7f4b74b78d681",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
+    "PYTHON/7.0 TIPOS AVANZADOS.md",
+    "PYTHON/9.0 POO.md",
+    "PYTHON/3.0 CONVERSIÓN DE TIPOS.md",
+    "PYTHON/2.0 METODOS STRING.md",
+    "PYTHON/1.0 LIBRERIA MATH.md",
+    "PYTHON/0. COMANDOS POR CONSOLA.md",
+    "FastAPI/2.0 ROUTERS.md",
+    "FastAPI/1.0 MODELS.md",
+    "FastAPI/0.1 INSTALACIÓN.md",
+    "Diapositiva 11y 17.md",
     "Pasted image 20240826163202.png",
     "FastAPI/8.0 Varibles de entorno FastAPI.md",
     "DOCKER/7. solucionar problema docker.md",
     "DOCKER/6. Dockerizar proyecto.md",
     "DOCKER/4. Eliminando contenedores.md",
-    "FastAPI/0.1 INSTALACIÓN.md",
     "SONARQUBE/4. Token de acceso a SonarQube.md",
     "DOCKER/5. Guardar imagen en un archivo comprimido.md",
     "FastAPI/4.0 Main.md",
     "FastAPI/3.0 MIDDLEWARE.md",
-    "FastAPI/2.0 ROUTERS.md",
-    "FastAPI/1.0 MODELS.md",
     "DOCKER/3. Reinicio de un contenedor Docker.md",
     "FastAPI/0.0FASTAPI.md",
-    "Diapositiva 11y 17.md",
     "preguntasProyecto/1 Peguntas Inferenciales desarrollador.md",
     "Sin nombre",
     "SONARQUBE/IMAGENES SONAR/Pasted image 20240820100641.png",
@@ -178,17 +185,11 @@
     "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
     "SONARQUBE/2. Instalar SonarQube desde la imagen de Docker.md",
     "FastAPI/7.0 DEPENDENCIAS.md",
-    "AUTENTICACIÓN FASTAPI/2.1 Variable de entorno.md",
-    "AUTENTICACIÓN FASTAPI/1.0 main.py.md",
-    "AUTENTICACIÓN FASTAPI/0.0 OAuth2.md",
-    "FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
-    "FastAPI/5.0 STATIC.md",
     "preguntasProyecto",
     "SONARQUBE",
     "DOCKER/IMG_DOCKER/Pasted image 20240812150612.png",
     "DOCKER/IMG_DOCKER/Pasted image 20240812150551.png",
     "DOCKER/IMG_DOCKER/Pasted image 20240812150515.png",
-    "DOCKER/IMG_DOCKER/Pasted image 20240812140718.png",
     "DOCKER/IMG_DOCKER",
     "LINUX",
     "DOCKER",
