@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d53726d24ef6eafe",
+        "id": "6564fd92c8c98867",
         "type": "tabs",
         "children": [
           {
-            "id": "fec38298103abb5a",
+            "id": "d22acc0306fe007d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PYTHON/9.0 POO.md",
+                "file": "PYTHON/0. COMANDOS POR CONSOLA.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c53a1600bd394abb",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PYTHON/9.0 POO.md",
+                "file": "PYTHON/0. COMANDOS POR CONSOLA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PYTHON/9.0 POO.md",
+                "file": "PYTHON/0. COMANDOS POR CONSOLA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PYTHON/9.0 POO.md"
+                "file": "PYTHON/0. COMANDOS POR CONSOLA.md"
               }
             }
           }
@@ -148,10 +147,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "269780bdc71b032e",
+  "active": "d22acc0306fe007d",
   "lastOpenFiles": [
-    "PYTHON/7.0 TIPOS AVANZADOS.md",
+    "PYTHON/11. POO Encapsulamiento.md",
+    "PYTHON/10. POO EJERCICIOS ESPESCIFICADOS.md",
     "PYTHON/9.0 POO.md",
+    "DOCKER/IMG_DOCKER/Pasted image 20240805072815.png",
+    "DOCKER/IMG_DOCKER/Pasted image 20240805072743.png",
+    "DOCKER/IMG_DOCKER/Pasted image 20240802122026.png",
+    "PYTHON/7.0 TIPOS AVANZADOS.md",
     "PYTHON/3.0 CONVERSIÓN DE TIPOS.md",
     "PYTHON/2.0 METODOS STRING.md",
     "PYTHON/1.0 LIBRERIA MATH.md",
@@ -183,13 +187,8 @@
     "SONARQUBE/IMAGENES SONAR/Pasted image 20240820101513.png",
     "SONARQUBE/3. Descripción proyecto.md",
     "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
-    "SONARQUBE/2. Instalar SonarQube desde la imagen de Docker.md",
-    "FastAPI/7.0 DEPENDENCIAS.md",
     "preguntasProyecto",
     "SONARQUBE",
-    "DOCKER/IMG_DOCKER/Pasted image 20240812150612.png",
-    "DOCKER/IMG_DOCKER/Pasted image 20240812150551.png",
-    "DOCKER/IMG_DOCKER/Pasted image 20240812150515.png",
     "DOCKER/IMG_DOCKER",
     "LINUX",
     "DOCKER",
