@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/3.0 Pull.md",
+                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/3.0 Pull.md",
+                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/3.0 Pull.md",
+                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/3.0 Pull.md"
+                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md"
               }
             }
           }
@@ -162,51 +162,51 @@
   },
   "active": "dc86a2ce09d208f0",
   "lastOpenFiles": [
-    "tatus",
-    "GIT HUB Trabajo_Equipo/2.0 Fetch.md",
-    "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
-    "FastAPI/0.1 INSTALACIÓN.md",
-    "FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
-    "DOCKER/2. Ejecutando primera imagen.md",
-    "flutter/1Conectar flutter al api.md",
-    "flutter",
-    "PYTHON/11. POO Encapsulamiento.md",
-    "PYTHON/0. COMANDOS POR CONSOLA.md",
-    "PYTHON/10. POO EJERCICIOS ESPESCIFICADOS.md",
-    "PYTHON/9.0 POO.md",
-    "DOCKER/IMG_DOCKER/Pasted image 20240805072815.png",
-    "DOCKER/IMG_DOCKER/Pasted image 20240805072743.png",
-    "DOCKER/IMG_DOCKER/Pasted image 20240802122026.png",
-    "PYTHON/7.0 TIPOS AVANZADOS.md",
-    "PYTHON/3.0 CONVERSIÓN DE TIPOS.md",
-    "PYTHON/2.0 METODOS STRING.md",
-    "PYTHON/1.0 LIBRERIA MATH.md",
-    "FastAPI/2.0 ROUTERS.md",
-    "FastAPI/1.0 MODELS.md",
-    "Diapositiva 11y 17.md",
-    "Pasted image 20240826163202.png",
-    "FastAPI/8.0 Varibles de entorno FastAPI.md",
-    "DOCKER/7. solucionar problema docker.md",
-    "DOCKER/6. Dockerizar proyecto.md",
-    "DOCKER/4. Eliminando contenedores.md",
-    "SONARQUBE/4. Token de acceso a SonarQube.md",
-    "DOCKER/5. Guardar imagen en un archivo comprimido.md",
-    "FastAPI/4.0 Main.md",
-    "FastAPI/3.0 MIDDLEWARE.md",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820100641.png",
-    "SONARQUBE/IMAGENES SONAR",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820103453.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820103226.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820102210.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820101911.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820101513.png",
-    "preguntasProyecto",
-    "SONARQUBE",
-    "DOCKER/IMG_DOCKER",
-    "LINUX",
-    "DOCKER",
-    "GIT HUB Trabajo_Equipo/ImgTrbajoEquipo",
-    "GIT HUB Trabajo_Equipo",
-    "GIT HUB/img"
+    "OBSIDIAN_FASTAPI_PYTHON/FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
+    "OBSIDIAN_FASTAPI_PYTHON/FASAPI-SQL",
+    "OBSIDIAN_FASTAPI_PYTHON/preguntasProyecto/1 Peguntas Inferenciales desarrollador.md",
+    "OBSIDIAN_FASTAPI_PYTHON/preguntasProyecto",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820103453.png",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820103226.png",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820102210.png",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820101911.png",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820101513.png",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820100641.png",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/5. Validación de respuestas CON APIDOG.md",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/4. Token de acceso a SonarQube.md",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/3. Descripción proyecto.md",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/2. Instalar SonarQube desde la imagen de Docker.md",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
+    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/9.0 POO.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/8.0 TUPLAS.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/7.0 TIPOS AVANZADOS.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/6.0 BUCLES FOR Y WHILE.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/5.0 OPERACIONES DE CORTO CIRCUITO.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/4.0 OPERADORES LOGICOS.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/3.0 CONVERSIÓN DE TIPOS.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/2.0 METODOS STRING.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/11. POO Encapsulamiento.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/10. POO EJERCICIOS ESPESCIFICADOS.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/1.0 LIBRERIA MATH.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/0. COMANDOS POR CONSOLA.md",
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/img/Pasted image 20240730161931.png",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/img/Pasted image 20240730141107.png",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/img/Pasted image 20240730140947.png",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/img",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/9.0 Etiquetas git tag.md",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/8.0 .gitignore.md",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/7.0 Restaurando archivos eliminados.md",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/6.0 Shortlog.md",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/5.0 GIT CHECKOUT.md",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/4.0 GIT DIFF.md",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/3.0 GIT SHOW.md",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904095721.png",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB Trabajo_Equipo/ImgTrbajoEquipo",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO"
   ]
 }
