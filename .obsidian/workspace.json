@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
+                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5
   },
   "right": {
     "id": "c53a1600bd394abb",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
+                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
+                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md"
+                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md"
               }
             }
           }
@@ -162,13 +162,18 @@
   },
   "active": "dc86a2ce09d208f0",
   "lastOpenFiles": [
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
+    "OBSIDIAN_FASTAPI_PYTHON/tatus",
+    "OBSIDIAN_FASTAPI_PYTHON/flutter/1Conectar flutter al api.md",
+    "OBSIDIAN_FASTAPI_PYTHON/flutter",
+    "OBSIDIAN_FASTAPI_PYTHON/OBSIDIAN_FASTAPI_PYTHON",
     "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904095721.png",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904093521.png",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904092706.png",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904092433.png",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO",
     "OBSIDIAN_FASTAPI_PYTHON/FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
     "OBSIDIAN_FASTAPI_PYTHON/FASAPI-SQL",
@@ -200,13 +205,8 @@
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON/1.0 LIBRERIA MATH.md",
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON/0. COMANDOS POR CONSOLA.md",
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON",
-    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/img",
     "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/9.0 Etiquetas git tag.md",
     "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/8.0 .gitignore.md",
-    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/7.0 Restaurando archivos eliminados.md",
-    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/6.0 Shortlog.md",
-    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/5.0 GIT CHECKOUT.md",
-    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB",
-    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO"
+    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/7.0 Restaurando archivos eliminados.md"
   ]
 }
