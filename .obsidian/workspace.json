@@ -13,26 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
+                "file": "flutter/1Conectar flutter al api.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dc86a2ce09d208f0",
+            "id": "692f3d425e910b09",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png"
+              }
+            }
+          },
+          {
+            "id": "f86d3ff49af0b08e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
+                "file": "Estructura proyecto.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
+                "file": "Estructura proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
+                "file": "Estructura proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md"
+                "file": "Estructura proyecto.md"
               }
             }
           }
@@ -160,15 +170,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dc86a2ce09d208f0",
+  "active": "f86d3ff49af0b08e",
   "lastOpenFiles": [
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png",
+    "Estructura proyecto.md",
+    "Pasted image 20240826163202.png",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
+    "flutter/1Conectar flutter al api.md",
+    "PYTHON/12 @property Python es una herramienta poderosa que permite definir métodos que se comportan como atributos..md",
+    "PYTHON/0. COMANDOS POR CONSOLA.md",
+    "2. Validaciones Correo Usuario.md",
+    "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
     "OBSIDIAN_FASTAPI_PYTHON/GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
     "OBSIDIAN_FASTAPI_PYTHON/tatus",
     "OBSIDIAN_FASTAPI_PYTHON/flutter/1Conectar flutter al api.md",
     "OBSIDIAN_FASTAPI_PYTHON/flutter",
     "OBSIDIAN_FASTAPI_PYTHON/OBSIDIAN_FASTAPI_PYTHON",
-    "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904095721.png",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904093521.png",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904092706.png",
@@ -183,8 +200,6 @@
     "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820103226.png",
     "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820102210.png",
     "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820101911.png",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820101513.png",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820100641.png",
     "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR",
     "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/5. Validación de respuestas CON APIDOG.md",
     "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/4. Token de acceso a SonarQube.md",
@@ -201,12 +216,6 @@
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON/3.0 CONVERSIÓN DE TIPOS.md",
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON/2.0 METODOS STRING.md",
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON/11. POO Encapsulamiento.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/10. POO EJERCICIOS ESPESCIFICADOS.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/1.0 LIBRERIA MATH.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/0. COMANDOS POR CONSOLA.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON",
-    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/9.0 Etiquetas git tag.md",
-    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/8.0 .gitignore.md",
-    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB/7.0 Restaurando archivos eliminados.md"
+    "OBSIDIAN_FASTAPI_PYTHON/PYTHON"
   ]
 }
