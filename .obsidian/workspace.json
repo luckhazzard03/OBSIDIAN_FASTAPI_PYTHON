@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estructura proyecto.md",
+                "file": "flutter/Estructura proyecto.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estructura proyecto.md",
+                "file": "flutter/Estructura proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estructura proyecto.md",
+                "file": "flutter/Estructura proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estructura proyecto.md"
+                "file": "flutter/Estructura proyecto.md"
               }
             }
           }
@@ -170,10 +170,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f86d3ff49af0b08e",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png",
-    "Estructura proyecto.md",
+    "flutter/Estructura proyecto.md",
     "Pasted image 20240826163202.png",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
     "flutter/1Conectar flutter al api.md",
