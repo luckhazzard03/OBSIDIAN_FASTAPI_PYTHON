@@ -170,10 +170,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "269780bdc71b032e",
+  "active": "f86d3ff49af0b08e",
   "lastOpenFiles": [
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png",
+    "FastAPI/0.1 INSTALACIÓN.md",
+    "FastAPI/4.0 Main.md",
+    "FastAPI/1.0 MODELS.md",
+    "FastAPI/0.0FASTAPI.md",
     "flutter/Estructura proyecto.md",
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png",
     "Pasted image 20240826163202.png",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
     "flutter/1Conectar flutter al api.md",
@@ -213,9 +217,6 @@
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON/6.0 BUCLES FOR Y WHILE.md",
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON/5.0 OPERACIONES DE CORTO CIRCUITO.md",
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON/4.0 OPERADORES LOGICOS.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/3.0 CONVERSIÓN DE TIPOS.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/2.0 METODOS STRING.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/11. POO Encapsulamiento.md",
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON"
   ]
 }

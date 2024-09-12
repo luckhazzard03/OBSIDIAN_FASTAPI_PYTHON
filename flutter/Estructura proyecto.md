@@ -78,3 +78,39 @@ dev_dependencies:
 
 ```
 
+si hago con vysor para poner a correr mi codigo de flutter de vscode como lo haria?
+
+
+Para usar Vysor para correr tu código de Flutter en un dispositivo Android, sigue estos pasos:
+
+1. **Instala Vysor:**
+    
+    - **En tu PC:** Descarga e instala Vysor desde su [sitio web oficial](https://www.vysor.io/).
+    - **En tu dispositivo Android:** No es necesario instalar nada en el dispositivo para usar Vysor, ya que Vysor funciona como una aplicación de escritorio que proyecta la pantalla del dispositivo en tu computadora.
+2. **Configura el dispositivo Android:**
+    
+    - **Habilita la depuración USB:** Ve a `Ajustes` > `Acerca del teléfono` y toca `Número de compilación` siete veces para activar las `Opciones de desarrollador`. Luego, ve a `Opciones de desarrollador` y habilita `Depuración USB`.
+    - **Conecta el dispositivo a tu computadora** usando un cable USB.
+3. **Conecta el dispositivo con Vysor:**
+    
+    - Abre Vysor en tu PC.
+    - Deberías ver una opción para conectar un dispositivo. Selecciona tu dispositivo Android de la lista que aparece.
+4. **Configura Flutter en VSCode:**
+    
+    - Asegúrate de tener el SDK de Flutter instalado en tu máquina y que esté configurado correctamente.
+    - Abre tu proyecto de Flutter en Visual Studio Code.
+    - En VSCode, abre la terminal (puedes usar el atajo `Ctrl + ``) y ejecuta` flutter devices` para asegurarte de que tu dispositivo esté listado. Si no aparece, asegúrate de que el dispositivo esté correctamente conectado y que la depuración USB esté habilitada.
+5. **Ejecuta tu aplicación Flutter:**
+    
+    - En la parte inferior derecha de VSCode, debería aparecer una lista de dispositivos. Selecciona tu dispositivo Android (debería aparecer como un dispositivo físico o algo similar).
+    - Puedes iniciar tu aplicación Flutter desde la terminal ejecutando `flutter run` o usando el botón de ejecución en la interfaz de usuario de VSCode.
+6. **Verifica la proyección en Vysor:**
+    
+    - La pantalla de tu dispositivo Android debería estar proyectada en tu PC a través de Vysor. Deberías poder ver y controlar el dispositivo desde la ventana de Vysor.
+
+**Notas adicionales:**
+
+- Asegúrate de que tanto Vysor como tu entorno de desarrollo estén actualizados para evitar problemas de compatibilidad.
+- La conexión USB debe ser estable para evitar desconexiones mientras trabajas.
+
+Siguiendo estos pasos, deberías poder correr tu código de Flutter y probarlo en tu dispositivo Android usando Vysor para la proyección de pantalla. ¡Buena suerte con tu desarrollo en Flutter!
