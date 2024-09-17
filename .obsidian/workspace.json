@@ -8,41 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d22acc0306fe007d",
+            "id": "ec0aacd5c58100ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flutter/1Conectar flutter al api.md",
+                "file": "SonarQube API.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "692f3d425e910b09",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png"
-              }
-            }
-          },
-          {
-            "id": "f86d3ff49af0b08e",
+            "id": "18e99a816905e27a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flutter/Estructura proyecto.md",
+                "file": "flutter/3. Estructura proyecto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "584c00d93ac7e24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b576a370a9bf1ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flutter/5. Puerto habilitados API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72ced9a09774ced0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/Estructura proyecto.md",
+                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/Estructura proyecto.md",
+                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flutter/Estructura proyecto.md"
+                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md"
               }
             }
           }
@@ -170,20 +196,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f86d3ff49af0b08e",
+  "active": "72ced9a09774ced0",
   "lastOpenFiles": [
+    "flutter/5. Puerto habilitados API.md",
+    "flutter/3. Estructura proyecto.md",
+    "flutter/1Conectar flutter al api.md",
+    "flutter/2. Validaciones Correo Usuario.md",
+    "SonarQube API.md",
+    "flutter/6. Permisos de internet en ANDROID(Flutter).md",
+    "Sin título.md",
+    "flutter/4. RUTAS PARA CONSUMIR API RECOMENDACIÓN.md",
+    "Configuración entorno de desarrollo.md",
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png",
+    "SONARQUBE/Diapositiva 11y 17.md",
+    "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
     "FastAPI/0.1 INSTALACIÓN.md",
     "FastAPI/4.0 Main.md",
     "FastAPI/1.0 MODELS.md",
     "FastAPI/0.0FASTAPI.md",
-    "flutter/Estructura proyecto.md",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png",
     "Pasted image 20240826163202.png",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
-    "flutter/1Conectar flutter al api.md",
     "PYTHON/12 @property Python es una herramienta poderosa que permite definir métodos que se comportan como atributos..md",
     "PYTHON/0. COMANDOS POR CONSOLA.md",
-    "2. Validaciones Correo Usuario.md",
     "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
     "OBSIDIAN_FASTAPI_PYTHON/GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
     "OBSIDIAN_FASTAPI_PYTHON/tatus",
@@ -208,15 +242,7 @@
     "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/5. Validación de respuestas CON APIDOG.md",
     "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/4. Token de acceso a SonarQube.md",
     "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/3. Descripción proyecto.md",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/2. Instalar SonarQube desde la imagen de Docker.md",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
     "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/9.0 POO.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/8.0 TUPLAS.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/7.0 TIPOS AVANZADOS.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/6.0 BUCLES FOR Y WHILE.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/5.0 OPERACIONES DE CORTO CIRCUITO.md",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON/4.0 OPERADORES LOGICOS.md",
     "OBSIDIAN_FASTAPI_PYTHON/PYTHON"
   ]
 }
