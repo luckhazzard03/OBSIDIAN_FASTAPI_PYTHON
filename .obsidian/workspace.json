@@ -4,71 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "6564fd92c8c98867",
+        "id": "a01d4689b48578b4",
         "type": "tabs",
         "children": [
           {
-            "id": "ec0aacd5c58100ee",
+            "id": "d6b4cb3bf6626e12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "SonarQube API.md",
-                "mode": "source",
-                "source": false
+                "file": "DJANGO/img django/Pasted image 20240924110946.png"
               }
             }
           },
           {
-            "id": "18e99a816905e27a",
+            "id": "d00ed33431e69fa1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "flutter/3. Estructura proyecto.md",
-                "mode": "source",
-                "source": false
+                "file": "DJANGO/img django/Pasted image 20240924114133.png"
               }
             }
           },
           {
-            "id": "584c00d93ac7e24c",
+            "id": "7b24925c43233df7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sin título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b576a370a9bf1ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flutter/5. Puerto habilitados API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72ced9a09774ced0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
-                "mode": "source",
-                "source": false
+                "file": "Sin título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#sonarqube",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
+                "file": "Sin título.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
+                "file": "Sin título.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md"
+                "file": "Sin título.canvas"
               }
             }
           }
@@ -196,53 +171,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "72ced9a09774ced0",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
-    "Pasted image 20240920134257.png",
-    "Pasted image 20240919111750.png",
-    "flutter/1Conectar flutter al api.md",
-    "flutter/6. Permisos de internet en ANDROID(Flutter).md",
+    "Sin título.canvas",
+    "DJANGO/B2. laboratorio crear vistas.md",
+    "DJANGO/B. Vistas modulo 2.md",
+    "DJANGO/4. Marcos de trabajo Web y MVT.md",
+    "DJANGO/3.Pasos para crear un project en coursera django.md",
+    "DJANGO/2. Estructuras de aplicaciones.md",
+    "DJANGO/1.CONFIGURACIÓ ENTORNO VIRTUAL.md",
+    "DJANGO/img django/Pasted image 20240924121827.png",
+    "DJANGO/img django/Pasted image 20240924143438.png",
+    "DJANGO/img django/Pasted image 20240924143150.png",
+    "DJANGO/img django/Pasted image 20240924143127.png",
+    "DJANGO/img django/Pasted image 20240924143114.png",
+    "DJANGO/img django/Pasted image 20240924143101.png",
+    "DJANGO/img django/Pasted image 20240924143048.png",
+    "DJANGO/B 1. Vista Lógica.md",
+    "DJANGO/img django/Pasted image 20240924142317.png",
+    "DJANGO/img django/Pasted image 20240924142239.png",
+    "DJANGO/img django/Pasted image 20240924142208.png",
+    "FastAPI/0.1 INSTALACIÓN.md",
+    "DJANGO/img django",
+    "DJANGO",
+    "KUBERNETS/1. KUBERNETES.md",
+    "KUBERNETS/2. INSTALACIÓN.md",
+    "KUBERNETS/IMG",
     "flutter/5. Puerto habilitados API.md",
+    "SONARQUBE/Configuración entorno de desarrollo.md",
+    "SONARQUBE/SonarQube API.md",
+    "flutter/6. Permisos de internet en ANDROID(Flutter).md",
+    "KUBERNETS",
+    "flutter/1Conectar flutter al api.md",
     "flutter/3. Estructura proyecto.md",
     "flutter/2. Validaciones Correo Usuario.md",
-    "SonarQube API.md",
-    "Sin título.md",
     "flutter/4. RUTAS PARA CONSUMIR API RECOMENDACIÓN.md",
-    "Configuración entorno de desarrollo.md",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png",
     "SONARQUBE/Diapositiva 11y 17.md",
     "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
-    "FastAPI/0.1 INSTALACIÓN.md",
     "FastAPI/4.0 Main.md",
     "FastAPI/1.0 MODELS.md",
     "FastAPI/0.0FASTAPI.md",
-    "Pasted image 20240826163202.png",
     "PYTHON/12 @property Python es una herramienta poderosa que permite definir métodos que se comportan como atributos..md",
-    "PYTHON/0. COMANDOS POR CONSOLA.md",
-    "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
-    "OBSIDIAN_FASTAPI_PYTHON/GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
     "OBSIDIAN_FASTAPI_PYTHON/tatus",
-    "OBSIDIAN_FASTAPI_PYTHON/flutter/1Conectar flutter al api.md",
     "OBSIDIAN_FASTAPI_PYTHON/flutter",
     "OBSIDIAN_FASTAPI_PYTHON/OBSIDIAN_FASTAPI_PYTHON",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904095721.png",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904093521.png",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904092706.png",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904092433.png",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO",
-    "OBSIDIAN_FASTAPI_PYTHON/FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
-    "OBSIDIAN_FASTAPI_PYTHON/FASAPI-SQL",
-    "OBSIDIAN_FASTAPI_PYTHON/preguntasProyecto/1 Peguntas Inferenciales desarrollador.md",
-    "OBSIDIAN_FASTAPI_PYTHON/preguntasProyecto",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820103453.png",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820103226.png",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR/Pasted image 20240820102210.png",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/IMAGENES SONAR",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/5. Validación de respuestas CON APIDOG.md",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE/4. Token de acceso a SonarQube.md",
-    "OBSIDIAN_FASTAPI_PYTHON/SONARQUBE",
-    "OBSIDIAN_FASTAPI_PYTHON/PYTHON"
+    "OBSIDIAN_FASTAPI_PYTHON/FASAPI-SQL"
   ]
 }
