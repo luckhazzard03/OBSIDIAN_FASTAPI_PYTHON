@@ -4,41 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "a01d4689b48578b4",
+        "id": "5064b3c7c3ee23df",
         "type": "tabs",
         "children": [
           {
-            "id": "d6b4cb3bf6626e12",
+            "id": "7723e5ea74919bef",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "DJANGO/img django/Pasted image 20240924110946.png"
+                "file": "DJANGO/img django/Pasted image 20240930121700.png"
               }
             }
           },
           {
-            "id": "d00ed33431e69fa1",
+            "id": "c3eb926c2fb9cb81",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DJANGO/img django/Pasted image 20240924114133.png"
+                "file": "FastAPI/0.1 INSTALACIÓN.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "7b24925c43233df7",
+            "id": "c25823bed8f99535",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sin título.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sin título.canvas",
+                "file": "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sin título.canvas",
+                "file": "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título.canvas"
+                "file": "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md"
               }
             }
           }
@@ -171,53 +170,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "269780bdc71b032e",
+  "active": "c25823bed8f99535",
   "lastOpenFiles": [
+    "DJANGO/img django/Pasted image 20240930123531.png",
+    "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
+    "FastAPI/0.1 INSTALACIÓN.md",
+    "DJANGO/E4.Mapeo de relaciones de objetos - ORM.md",
+    "DJANGO/img django/Pasted image 20240930124913.png",
+    "DJANGO/img django/Pasted image 20240930124621.png",
+    "DJANGO/img django/Pasted image 20240930124608.png",
+    "DJANGO/img django/Pasted image 20240930124558.png",
+    "DJANGO/img django/Pasted image 20240930124548.png",
+    "DJANGO/img django/Pasted image 20240930124539.png",
+    "DJANGO/img django/Pasted image 20240930123826.png",
+    "DJANGO/img django/Pasted image 20240930121700.png",
+    "DJANGO/E2 . Modelos que utilizan claves foráneas.md",
+    "DJANGO/img django/Pasted image 20240930122020.png",
+    "DJANGO/E 1 . Migraciones.md",
+    "DJANGO/E 2. Ejercicio Laboratorio.md",
+    "DJANGO/E . Modelos y Migraciones.md",
+    "DJANGO/D. Valores dinámicos Expresiones regulares en URL.md",
+    "DJANGO/D 2. Laboratorio, Creación de direcciones URL y asignación a vistas.md",
+    "DJANGO/D 3. Manejo de errores en vistas.md",
+    "DJANGO/C 2 . Parámetros.md",
+    "DJANGO/C 1. Solicitudes y URL.md",
+    "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/1. Crear proyecto para autenticación.md",
+    "AUTENTICACIÓN FASTAPI/0.0 OAuth2.md",
+    "AUTENTICACIÓN FASTAPI/2.1 Variable de entorno.md",
+    "AUTENTICACIÓN FASTAPI/1.0 main.py.md",
+    "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash",
     "Sin título.canvas",
+    "APIKEY FASTAPI/1. APIKEY.md",
+    "FastAPI/0.0FASTAPI.md",
+    "APIKEY FASTAPI",
+    "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
     "DJANGO/B2. laboratorio crear vistas.md",
     "DJANGO/B. Vistas modulo 2.md",
     "DJANGO/4. Marcos de trabajo Web y MVT.md",
     "DJANGO/3.Pasos para crear un project en coursera django.md",
     "DJANGO/2. Estructuras de aplicaciones.md",
     "DJANGO/1.CONFIGURACIÓ ENTORNO VIRTUAL.md",
-    "DJANGO/img django/Pasted image 20240924121827.png",
-    "DJANGO/img django/Pasted image 20240924143438.png",
-    "DJANGO/img django/Pasted image 20240924143150.png",
-    "DJANGO/img django/Pasted image 20240924143127.png",
-    "DJANGO/img django/Pasted image 20240924143114.png",
-    "DJANGO/img django/Pasted image 20240924143101.png",
-    "DJANGO/img django/Pasted image 20240924143048.png",
-    "DJANGO/B 1. Vista Lógica.md",
-    "DJANGO/img django/Pasted image 20240924142317.png",
-    "DJANGO/img django/Pasted image 20240924142239.png",
-    "DJANGO/img django/Pasted image 20240924142208.png",
-    "FastAPI/0.1 INSTALACIÓN.md",
     "DJANGO/img django",
     "DJANGO",
-    "KUBERNETS/1. KUBERNETES.md",
-    "KUBERNETS/2. INSTALACIÓN.md",
     "KUBERNETS/IMG",
-    "flutter/5. Puerto habilitados API.md",
-    "SONARQUBE/Configuración entorno de desarrollo.md",
-    "SONARQUBE/SonarQube API.md",
-    "flutter/6. Permisos de internet en ANDROID(Flutter).md",
     "KUBERNETS",
-    "flutter/1Conectar flutter al api.md",
-    "flutter/3. Estructura proyecto.md",
-    "flutter/2. Validaciones Correo Usuario.md",
-    "flutter/4. RUTAS PARA CONSUMIR API RECOMENDACIÓN.md",
-    "SONARQUBE/Diapositiva 11y 17.md",
-    "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
-    "FastAPI/4.0 Main.md",
-    "FastAPI/1.0 MODELS.md",
-    "FastAPI/0.0FASTAPI.md",
-    "PYTHON/12 @property Python es una herramienta poderosa que permite definir métodos que se comportan como atributos..md",
     "OBSIDIAN_FASTAPI_PYTHON/tatus",
     "OBSIDIAN_FASTAPI_PYTHON/flutter",
     "OBSIDIAN_FASTAPI_PYTHON/OBSIDIAN_FASTAPI_PYTHON",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO",
-    "OBSIDIAN_FASTAPI_PYTHON/FASAPI-SQL"
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO"
   ]
 }
