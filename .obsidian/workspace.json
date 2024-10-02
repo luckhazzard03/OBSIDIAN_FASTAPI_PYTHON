@@ -4,40 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "5064b3c7c3ee23df",
+        "id": "d8a7f7a4cb46d6c6",
         "type": "tabs",
         "children": [
           {
-            "id": "7723e5ea74919bef",
+            "id": "a393c0ca3e1ad137",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "DJANGO/img django/Pasted image 20240930121700.png"
+                "file": "DJANGO/img django/Pasted image 20241001112348.png"
               }
             }
           },
           {
-            "id": "c3eb926c2fb9cb81",
+            "id": "fb6519fe08539d39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "FastAPI/0.1 INSTALACIÓN.md",
-                "mode": "source",
-                "source": false
+                "file": "DJANGO/img django/Pasted image 20241001143132.png"
               }
             }
           },
           {
-            "id": "c25823bed8f99535",
+            "id": "a3a3cac3c6216e2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
-                "mode": "source",
-                "source": false
+                "file": "DJANGO/img django/Pasted image 20241001160700.png"
               }
             }
           }
@@ -108,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
+                "file": "DJANGO/img django/Pasted image 20241001160700.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
+                "file": "DJANGO/img django/Pasted image 20241001160700.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md"
+                "file": "DJANGO/img django/Pasted image 20241001160700.png"
               }
             }
           }
@@ -170,22 +166,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c25823bed8f99535",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
-    "DJANGO/img django/Pasted image 20240930123531.png",
+    "DJANGO/G2. Plantillas.md",
+    "DJANGO/img django/Pasted image 20241001164546.png",
+    "DJANGO/img django/Pasted image 20241001164534.png",
+    "DJANGO/img django/Pasted image 20241001164522.png",
+    "DJANGO/img django/Pasted image 20241001164512.png",
+    "DJANGO/img django/Pasted image 20241001164502.png",
+    "DJANGO/img django/Pasted image 20241001164221.png",
+    "DJANGO/img django/Pasted image 20241001164208.png",
+    "DJANGO/img django/Pasted image 20241001164155.png",
+    "DJANGO/img django/Pasted image 20241001160700.png",
+    "DJANGO/img django/Pasted image 20241001143132.png",
+    "DJANGO/G1. Configuración de la conexión MySQL.md",
+    "DJANGO/F7. ADMINISTRACIÓN.md",
+    "DJANGO/E6. Api de formulario.md",
+    "DJANGO/E5. Modelos Y Formularios.md",
+    "DJANGO/F8. Hacer cumplir los permisos.md",
     "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
     "FastAPI/0.1 INSTALACIÓN.md",
     "DJANGO/E4.Mapeo de relaciones de objetos - ORM.md",
-    "DJANGO/img django/Pasted image 20240930124913.png",
-    "DJANGO/img django/Pasted image 20240930124621.png",
-    "DJANGO/img django/Pasted image 20240930124608.png",
-    "DJANGO/img django/Pasted image 20240930124558.png",
-    "DJANGO/img django/Pasted image 20240930124548.png",
-    "DJANGO/img django/Pasted image 20240930124539.png",
-    "DJANGO/img django/Pasted image 20240930123826.png",
-    "DJANGO/img django/Pasted image 20240930121700.png",
     "DJANGO/E2 . Modelos que utilizan claves foráneas.md",
-    "DJANGO/img django/Pasted image 20240930122020.png",
     "DJANGO/E 1 . Migraciones.md",
     "DJANGO/E 2. Ejercicio Laboratorio.md",
     "DJANGO/E . Modelos y Migraciones.md",
@@ -199,17 +201,11 @@
     "AUTENTICACIÓN FASTAPI/2.1 Variable de entorno.md",
     "AUTENTICACIÓN FASTAPI/1.0 main.py.md",
     "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash",
-    "Sin título.canvas",
+    "DJANGO/img django/Sin título.canvas",
     "APIKEY FASTAPI/1. APIKEY.md",
     "FastAPI/0.0FASTAPI.md",
     "APIKEY FASTAPI",
     "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
-    "DJANGO/B2. laboratorio crear vistas.md",
-    "DJANGO/B. Vistas modulo 2.md",
-    "DJANGO/4. Marcos de trabajo Web y MVT.md",
-    "DJANGO/3.Pasos para crear un project en coursera django.md",
-    "DJANGO/2. Estructuras de aplicaciones.md",
-    "DJANGO/1.CONFIGURACIÓ ENTORNO VIRTUAL.md",
     "DJANGO/img django",
     "DJANGO",
     "KUBERNETS/IMG",
