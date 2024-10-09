@@ -35,11 +35,9 @@
             "id": "2ef2d34aad6577ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DOCKER/6. Dockerizar proyecto.md",
-                "mode": "source",
-                "source": false
+                "file": "LINUX/img consola/Pasted image 20241007125001.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DOCKER/6. Dockerizar proyecto.md",
+                "file": "LINUX/img consola/Pasted image 20241007125001.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DOCKER/6. Dockerizar proyecto.md",
+                "file": "LINUX/img consola/Pasted image 20241007125001.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DOCKER/6. Dockerizar proyecto.md"
+                "file": "LINUX/img consola/Pasted image 20241007125001.png"
               }
             }
           }
@@ -172,8 +170,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2ef2d34aad6577ef",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
+    "DOCKER/6. Dockerizar proyecto.md",
+    "LINUX/img consola",
     "DOCKER/7. solucionar problema docker.md",
     "FastAPI/0.1 INSTALACIÓN.md",
     "LINUX/1. Crear variables de entorno.md",
@@ -185,12 +185,11 @@
     "PRUEBAS UNITARIAS/img pruebas/Pasted image 20241009080304.png",
     "DOCKER/1. TERMINAL LINUX.md",
     "PRUEBAS UNITARIAS",
-    "DOCKER/6. Dockerizar proyecto.md",
     "DOCKER/3. Reinicio de un contenedor Docker.md",
     "DOCKER/2. Ejecutando primera imagen.md",
     "FastAPI/3.0 MIDDLEWARE.md",
     "FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
-    "PRUEBAS UNITARIAS/img pruebas/Pasted image 20241007125001.png",
+    "LINUX/img consola/Pasted image 20241007125001.png",
     "DOCKER/5. Guardar imagen en un archivo comprimido.md",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
     "DJANGO/Acerca de la evaluación final con calificación del proyecto para el marco de trabajo Django.md",
@@ -218,7 +217,6 @@
     "DJANGO",
     "KUBERNETS/IMG",
     "KUBERNETS",
-    "OBSIDIAN_FASTAPI_PYTHON/tatus",
-    "OBSIDIAN_FASTAPI_PYTHON/flutter"
+    "OBSIDIAN_FASTAPI_PYTHON/tatus"
   ]
 }
