@@ -4,36 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "d8a7f7a4cb46d6c6",
+        "id": "087d84a6415813c1",
         "type": "tabs",
         "children": [
           {
-            "id": "a393c0ca3e1ad137",
+            "id": "8897c8f6f4aa02fa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DJANGO/img django/Pasted image 20241001112348.png"
+                "file": "DOCKER/1. TERMINAL LINUX.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "fb6519fe08539d39",
+            "id": "542e565b54749a92",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DJANGO/img django/Pasted image 20241001143132.png"
+                "file": "FastAPI/0.1 INSTALACIÓN.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "a3a3cac3c6216e2b",
+            "id": "2ef2d34aad6577ef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DJANGO/img django/Pasted image 20241001160700.png"
+                "file": "DOCKER/6. Dockerizar proyecto.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -104,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DJANGO/img django/Pasted image 20241001160700.png",
+                "file": "DOCKER/6. Dockerizar proyecto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DJANGO/img django/Pasted image 20241001160700.png",
+                "file": "DOCKER/6. Dockerizar proyecto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DJANGO/img django/Pasted image 20241001160700.png"
+                "file": "DOCKER/6. Dockerizar proyecto.md"
               }
             }
           }
@@ -166,53 +172,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "269780bdc71b032e",
+  "active": "2ef2d34aad6577ef",
   "lastOpenFiles": [
+    "DOCKER/7. solucionar problema docker.md",
+    "FastAPI/0.1 INSTALACIÓN.md",
+    "LINUX/1. Crear variables de entorno.md",
+    "PRUEBAS UNITARIAS/img pruebas/Pasted image 20241009080336.png",
+    "DOCKER/8.Variables de entorno en DOCKER.md",
+    "PRUEBAS UNITARIAS/img pruebas/Pasted image 20241007124715.png",
+    "PRUEBAS UNITARIAS/1. pytest.md",
+    "PRUEBAS UNITARIAS/img pruebas",
+    "PRUEBAS UNITARIAS/img pruebas/Pasted image 20241009080304.png",
+    "DOCKER/1. TERMINAL LINUX.md",
+    "PRUEBAS UNITARIAS",
+    "DOCKER/6. Dockerizar proyecto.md",
+    "DOCKER/3. Reinicio de un contenedor Docker.md",
+    "DOCKER/2. Ejecutando primera imagen.md",
+    "FastAPI/3.0 MIDDLEWARE.md",
+    "FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
+    "PRUEBAS UNITARIAS/img pruebas/Pasted image 20241007125001.png",
+    "DOCKER/5. Guardar imagen en un archivo comprimido.md",
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
+    "DJANGO/Acerca de la evaluación final con calificación del proyecto para el marco de trabajo Django.md",
+    "DJANGO/img django/Pasted image 20241002113940.png",
+    "DJANGO/G4. Depuración de pruebas.md",
+    "DJANGO/img django/Pasted image 20241002120909.png",
+    "DJANGO/img django/Pasted image 20241002120848.png",
+    "DJANGO/img django/Pasted image 20241002120601.png",
+    "DJANGO/img django/Pasted image 20241002120552.png",
+    "DJANGO/img django/Pasted image 20241002120511.png",
+    "DJANGO/G3. Trabajar con plantillas.md",
     "DJANGO/G2. Plantillas.md",
-    "DJANGO/img django/Pasted image 20241001164546.png",
-    "DJANGO/img django/Pasted image 20241001164534.png",
-    "DJANGO/img django/Pasted image 20241001164522.png",
-    "DJANGO/img django/Pasted image 20241001164512.png",
-    "DJANGO/img django/Pasted image 20241001164502.png",
-    "DJANGO/img django/Pasted image 20241001164221.png",
-    "DJANGO/img django/Pasted image 20241001164208.png",
-    "DJANGO/img django/Pasted image 20241001164155.png",
-    "DJANGO/img django/Pasted image 20241001160700.png",
-    "DJANGO/img django/Pasted image 20241001143132.png",
     "DJANGO/G1. Configuración de la conexión MySQL.md",
     "DJANGO/F7. ADMINISTRACIÓN.md",
     "DJANGO/E6. Api de formulario.md",
     "DJANGO/E5. Modelos Y Formularios.md",
     "DJANGO/F8. Hacer cumplir los permisos.md",
     "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
-    "FastAPI/0.1 INSTALACIÓN.md",
     "DJANGO/E4.Mapeo de relaciones de objetos - ORM.md",
     "DJANGO/E2 . Modelos que utilizan claves foráneas.md",
-    "DJANGO/E 1 . Migraciones.md",
-    "DJANGO/E 2. Ejercicio Laboratorio.md",
-    "DJANGO/E . Modelos y Migraciones.md",
-    "DJANGO/D. Valores dinámicos Expresiones regulares en URL.md",
-    "DJANGO/D 2. Laboratorio, Creación de direcciones URL y asignación a vistas.md",
-    "DJANGO/D 3. Manejo de errores en vistas.md",
-    "DJANGO/C 2 . Parámetros.md",
-    "DJANGO/C 1. Solicitudes y URL.md",
-    "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/1. Crear proyecto para autenticación.md",
-    "AUTENTICACIÓN FASTAPI/0.0 OAuth2.md",
-    "AUTENTICACIÓN FASTAPI/2.1 Variable de entorno.md",
-    "AUTENTICACIÓN FASTAPI/1.0 main.py.md",
     "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash",
     "DJANGO/img django/Sin título.canvas",
-    "APIKEY FASTAPI/1. APIKEY.md",
-    "FastAPI/0.0FASTAPI.md",
     "APIKEY FASTAPI",
-    "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
     "DJANGO/img django",
     "DJANGO",
     "KUBERNETS/IMG",
     "KUBERNETS",
     "OBSIDIAN_FASTAPI_PYTHON/tatus",
-    "OBSIDIAN_FASTAPI_PYTHON/flutter",
-    "OBSIDIAN_FASTAPI_PYTHON/OBSIDIAN_FASTAPI_PYTHON",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO"
+    "OBSIDIAN_FASTAPI_PYTHON/flutter"
   ]
 }
