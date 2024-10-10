@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "087d84a6415813c1",
+        "id": "d8549d9461e7d9a2",
         "type": "tabs",
         "children": [
           {
-            "id": "8897c8f6f4aa02fa",
+            "id": "dd18f3bc6b22727b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOCKER/1. TERMINAL LINUX.md",
+                "file": "DJANGO/G2. Plantillas.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "542e565b54749a92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FastAPI/0.1 INSTALACIÓN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2ef2d34aad6577ef",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "LINUX/img consola/Pasted image 20241007125001.png"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,6 +58,18 @@
             }
           },
           {
+            "id": "514de325aab71ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DJANGO/G5. modulo 5 creación de el app django.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fc663439828cc633",
             "type": "leaf",
             "state": {
@@ -108,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINUX/img consola/Pasted image 20241007125001.png",
+                "file": "DJANGO/G2. Plantillas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINUX/img consola/Pasted image 20241007125001.png",
+                "file": "DJANGO/G2. Plantillas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINUX/img consola/Pasted image 20241007125001.png"
+                "file": "DJANGO/G2. Plantillas.md"
               }
             }
           }
@@ -170,36 +159,37 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "269780bdc71b032e",
+  "active": "dd18f3bc6b22727b",
   "lastOpenFiles": [
+    "DJANGO/G5. modulo 5 creación de el app django.md",
+    "DJANGO/img django/Pasted image 20241010110041.png",
+    "DJANGO/img django/Pasted image 20241010161705.png",
+    "DJANGO/img django/Pasted image 20241010160048.png",
+    "DJANGO/img django/Pasted image 20241010160032.png",
+    "DJANGO/img django/Pasted image 20241010160020.png",
+    "DJANGO/img django/Pasted image 20241010160007.png",
+    "DJANGO/img django/Pasted image 20241010155954.png",
+    "DJANGO/img django/Pasted image 20241010155942.png",
+    "DJANGO/img django/Pasted image 20241010155926.png",
+    "DJANGO/img django/Pasted image 20241010155913.png",
+    "DOCKER/1. TERMINAL LINUX.md",
     "DOCKER/6. Dockerizar proyecto.md",
     "LINUX/img consola",
     "DOCKER/7. solucionar problema docker.md",
     "FastAPI/0.1 INSTALACIÓN.md",
     "LINUX/1. Crear variables de entorno.md",
-    "PRUEBAS UNITARIAS/img pruebas/Pasted image 20241009080336.png",
     "DOCKER/8.Variables de entorno en DOCKER.md",
-    "PRUEBAS UNITARIAS/img pruebas/Pasted image 20241007124715.png",
     "PRUEBAS UNITARIAS/1. pytest.md",
     "PRUEBAS UNITARIAS/img pruebas",
-    "PRUEBAS UNITARIAS/img pruebas/Pasted image 20241009080304.png",
-    "DOCKER/1. TERMINAL LINUX.md",
     "PRUEBAS UNITARIAS",
     "DOCKER/3. Reinicio de un contenedor Docker.md",
     "DOCKER/2. Ejecutando primera imagen.md",
     "FastAPI/3.0 MIDDLEWARE.md",
     "FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
-    "LINUX/img consola/Pasted image 20241007125001.png",
     "DOCKER/5. Guardar imagen en un archivo comprimido.md",
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
     "DJANGO/Acerca de la evaluación final con calificación del proyecto para el marco de trabajo Django.md",
-    "DJANGO/img django/Pasted image 20241002113940.png",
     "DJANGO/G4. Depuración de pruebas.md",
-    "DJANGO/img django/Pasted image 20241002120909.png",
-    "DJANGO/img django/Pasted image 20241002120848.png",
-    "DJANGO/img django/Pasted image 20241002120601.png",
-    "DJANGO/img django/Pasted image 20241002120552.png",
-    "DJANGO/img django/Pasted image 20241002120511.png",
     "DJANGO/G3. Trabajar con plantillas.md",
     "DJANGO/G2. Plantillas.md",
     "DJANGO/G1. Configuración de la conexión MySQL.md",
@@ -209,7 +199,6 @@
     "DJANGO/F8. Hacer cumplir los permisos.md",
     "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
     "DJANGO/E4.Mapeo de relaciones de objetos - ORM.md",
-    "DJANGO/E2 . Modelos que utilizan claves foráneas.md",
     "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash",
     "DJANGO/img django/Sin título.canvas",
     "APIKEY FASTAPI",
