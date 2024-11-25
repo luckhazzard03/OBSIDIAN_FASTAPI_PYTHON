@@ -4,22 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "d8549d9461e7d9a2",
+        "id": "b9896d5cab4a679a",
         "type": "tabs",
         "children": [
           {
-            "id": "dd18f3bc6b22727b",
+            "id": "91aef08156068201",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083556.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241016083556"
+            }
+          },
+          {
+            "id": "aedca4ca5bd44e3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DJANGO/G2. Plantillas.md",
+                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "6. Permisos de internet en ANDROID(Flutter)"
+            }
+          },
+          {
+            "id": "0c2e469eba95d2ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROYECTO CHEFTABLE V8/1.SOLUCIÓN AL CONTROLLADOR CIERRE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.SOLUCIÓN AL CONTROLLADOR CIERRE"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -39,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +85,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -66,7 +99,9 @@
                 "file": "DJANGO/G5. modulo 5 creación de el app django.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "G5. modulo 5 creación de el app django"
             }
           },
           {
@@ -74,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DJANGO/G2. Plantillas.md",
+                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +142,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 6. Permisos de internet en ANDROID(Flutter)"
             }
           },
           {
@@ -114,10 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DJANGO/G2. Plantillas.md",
+                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 6. Permisos de internet en ANDROID(Flutter)"
             }
           },
           {
@@ -128,7 +169,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -137,8 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DJANGO/G2. Plantillas.md"
-              }
+                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 6. Permisos de internet en ANDROID(Flutter)"
             }
           }
         ],
@@ -159,19 +204,31 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dd18f3bc6b22727b",
+  "active": "0c2e469eba95d2ed",
   "lastOpenFiles": [
+    "PROYECTO CHEFTABLE V8",
+    "flutter/6. Permisos de internet en ANDROID(Flutter).md",
+    "PROYECTO CHEFTABLE V8/1.SOLUCIÓN AL CONTROLLADOR CIERRE.md",
+    "flutter/5. Puerto habilitados API.md",
+    "flutter/4. RUTAS PARA CONSUMIR API RECOMENDACIÓN.md",
+    "flutter/3. Estructura proyecto.md",
+    "flutter/2. Validaciones Correo Usuario.md",
+    "flutter/1Conectar flutter al api.md",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241015162403.png",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083556.png",
+    "RESOLUCION DE PROBLEMAS/IMG RES",
+    "RESOLUCION DE PROBLEMAS",
+    "RESOLUCION DE PROBLEMAS/Resolución de problemas.md",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083506.png",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083451.png",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083422.png",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083409.png",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083353.png",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083339.png",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241015162450.png",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241015162441.png",
+    "DJANGO/G2. Plantillas.md",
     "DJANGO/G5. modulo 5 creación de el app django.md",
-    "DJANGO/img django/Pasted image 20241010110041.png",
-    "DJANGO/img django/Pasted image 20241010161705.png",
-    "DJANGO/img django/Pasted image 20241010160048.png",
-    "DJANGO/img django/Pasted image 20241010160032.png",
-    "DJANGO/img django/Pasted image 20241010160020.png",
-    "DJANGO/img django/Pasted image 20241010160007.png",
-    "DJANGO/img django/Pasted image 20241010155954.png",
-    "DJANGO/img django/Pasted image 20241010155942.png",
-    "DJANGO/img django/Pasted image 20241010155926.png",
-    "DJANGO/img django/Pasted image 20241010155913.png",
     "DOCKER/1. TERMINAL LINUX.md",
     "DOCKER/6. Dockerizar proyecto.md",
     "LINUX/img consola",
@@ -190,22 +247,11 @@
     "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
     "DJANGO/Acerca de la evaluación final con calificación del proyecto para el marco de trabajo Django.md",
     "DJANGO/G4. Depuración de pruebas.md",
-    "DJANGO/G3. Trabajar con plantillas.md",
-    "DJANGO/G2. Plantillas.md",
-    "DJANGO/G1. Configuración de la conexión MySQL.md",
-    "DJANGO/F7. ADMINISTRACIÓN.md",
-    "DJANGO/E6. Api de formulario.md",
-    "DJANGO/E5. Modelos Y Formularios.md",
-    "DJANGO/F8. Hacer cumplir los permisos.md",
-    "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/2.0AUTENTICACIÓN 2 FASTAPI.md",
-    "DJANGO/E4.Mapeo de relaciones de objetos - ORM.md",
     "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash",
     "DJANGO/img django/Sin título.canvas",
     "APIKEY FASTAPI",
     "DJANGO/img django",
     "DJANGO",
-    "KUBERNETS/IMG",
-    "KUBERNETS",
-    "OBSIDIAN_FASTAPI_PYTHON/tatus"
+    "KUBERNETS/IMG"
   ]
 }
