@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6564fd92c8c98867",
+        "id": "ea671d8074e24f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "d22acc0306fe007d",
+            "id": "5f31295aa486a1d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
-                "mode": "source",
-                "source": false
-              }
+                "file": "Django Linux/img django linux/Pasted image 20250206071114.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250206071114"
             }
           }
         ]
@@ -38,8 +38,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +57,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +67,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -85,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
+                "file": "Django Linux/INSTALACIÓN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +100,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de INSTALACIÓN"
             }
           },
           {
@@ -102,10 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
+                "file": "Django Linux/INSTALACIÓN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de INSTALACIÓN"
             }
           },
           {
@@ -115,8 +126,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
             }
           },
           {
@@ -125,8 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md"
-              }
+                "file": "Django Linux/INSTALACIÓN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de INSTALACIÓN"
             }
           }
         ],
@@ -147,16 +167,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d22acc0306fe007d",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
+    "Pasted image 20240826163202.png",
+    "Django Linux/INSTALACIÓN.md",
+    "Django Linux/img django linux/Pasted image 20250206235521.png",
+    "Django Linux/img django linux/Pasted image 20250206235327.png",
+    "Django Linux/img django linux/Pasted image 20250206232352.png",
+    "Django Linux/img django linux/Pasted image 20250206232321.png",
+    "Django Linux/img django linux/Pasted image 20250206231551.png",
+    "Django Linux/img django linux/Pasted image 20250206231526.png",
+    "Django Linux/img django linux/Pasted image 20250206075508.png",
+    "Django Linux/img django linux/Pasted image 20250206071842.png",
+    "Django Linux/img django linux/Pasted image 20250206071829.png",
+    "Django Linux/img django linux/Pasted image 20250206071114.png",
+    "Sin título.md",
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/1. TRABAJO SOBRE RAMAS.md",
+    "Diapositiva 11y 17.md",
+    "Django Linux/img django linux",
+    "Django Linux",
     "PYTHON/0. COMANDOS POR CONSOLA.md",
     "Sin nombre",
     "PYTHON/11. POO Encapsulamiento.md",
     "PYTHON/10. POO EJERCICIOS ESPESCIFICADOS.md",
     "PYTHON/9.0 POO.md",
-    "DOCKER/IMG_DOCKER/Pasted image 20240805072815.png",
-    "DOCKER/IMG_DOCKER/Pasted image 20240805072743.png",
-    "DOCKER/IMG_DOCKER/Pasted image 20240802122026.png",
     "PYTHON/7.0 TIPOS AVANZADOS.md",
     "PYTHON/3.0 CONVERSIÓN DE TIPOS.md",
     "PYTHON/2.0 METODOS STRING.md",
@@ -164,8 +198,6 @@
     "FastAPI/2.0 ROUTERS.md",
     "FastAPI/1.0 MODELS.md",
     "FastAPI/0.1 INSTALACIÓN.md",
-    "Diapositiva 11y 17.md",
-    "Pasted image 20240826163202.png",
     "FastAPI/8.0 Varibles de entorno FastAPI.md",
     "DOCKER/7. solucionar problema docker.md",
     "DOCKER/6. Dockerizar proyecto.md",
@@ -176,23 +208,12 @@
     "FastAPI/3.0 MIDDLEWARE.md",
     "DOCKER/3. Reinicio de un contenedor Docker.md",
     "FastAPI/0.0FASTAPI.md",
-    "preguntasProyecto/1 Peguntas Inferenciales desarrollador.md",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820100641.png",
     "SONARQUBE/IMAGENES SONAR",
-    "SONARQUBE/5. Validación de respuestas CON APIDOG.md",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820103453.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820103226.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820102210.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820101911.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820101513.png",
-    "SONARQUBE/3. Descripción proyecto.md",
     "preguntasProyecto",
     "SONARQUBE",
     "DOCKER/IMG_DOCKER",
     "LINUX",
     "DOCKER",
-    "GIT HUB Trabajo_Equipo/ImgTrbajoEquipo",
-    "GIT HUB Trabajo_Equipo",
-    "GIT HUB/img"
+    "GIT HUB Trabajo_Equipo/ImgTrbajoEquipo"
   ]
 }
