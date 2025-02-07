@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "02158d97c0d4cfc5",
+        "id": "ea671d8074e24f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "f15e5c1954f1ea59",
+            "id": "5f31295aa486a1d0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DOCKER/6. Dockerizar proyecto.md",
-                "mode": "source",
-                "source": false
+                "file": "Django Linux/img django linux/Pasted image 20250206071114.png"
               },
-              "icon": "lucide-file",
-              "title": "6. Dockerizar proyecto"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250206071114"
             }
           }
         ]
@@ -40,7 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -52,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sonarqube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,20 +60,6 @@
               },
               "icon": "lucide-search",
               "title": "Buscar"
-            }
-          },
-          {
-            "id": "514de325aab71ae9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DJANGO/G5. modulo 5 creación de el app django.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "G5. modulo 5 creación de el app django"
             }
           },
           {
@@ -91,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 200
   },
   "right": {
     "id": "c53a1600bd394abb",
@@ -107,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
+                "file": "Django Linux/INSTALACIÓN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 6. Permisos de internet en ANDROID(Flutter)"
+              "title": "Enlaces entrantes de INSTALACIÓN"
             }
           },
           {
@@ -126,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md",
+                "file": "Django Linux/INSTALACIÓN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 6. Permisos de internet en ANDROID(Flutter)"
+              "title": "Enlaces salientes de INSTALACIÓN"
             }
           },
           {
@@ -141,7 +126,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
@@ -153,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flutter/6. Permisos de internet en ANDROID(Flutter).md"
+                "file": "Django Linux/INSTALACIÓN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 6. Permisos de internet en ANDROID(Flutter)"
+              "title": "Esquema de INSTALACIÓN"
             }
           }
         ],
@@ -177,35 +167,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f15e5c1954f1ea59",
+  "active": "5f31295aa486a1d0",
   "lastOpenFiles": [
-    "DOCKER/8.Variables de entorno en DOCKER.md",
-    "DOCKER/6. Dockerizar proyecto.md",
-    "DOCKER/7. solucionar problema docker.md",
-    "FastAPI/0.1 INSTALACIÓN.md",
-    "DOCKER/5. Guardar imagen en un archivo comprimido.md",
-    "FastAPI/7.0 DEPENDENCIAS.md",
-    "FastAPI/8.0 Varibles de entorno FastAPI.md",
-    "FastAPI/0.0FASTAPI.md",
-    "Sin título.md",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083556.png",
     "flutter/6. Permisos de internet en ANDROID(Flutter).md",
-    "PROYECTO CHEFTABLE V8/1.SOLUCIÓN AL CONTROLLADOR CIERRE.md",
-    "1. PRUEBAS UNITARIAS CONTROLADORES.md",
-    "2.despliegue por puertos php.md",
-    "3.verificar puerto.md",
-    "PROYECTO CHEFTABLE V8/PRUEBAS UNITARIAS V_8 CHEFT TABLE",
-    "PROYECTO CHEFTABLE V8",
     "flutter/5. Puerto habilitados API.md",
     "flutter/4. RUTAS PARA CONSUMIR API RECOMENDACIÓN.md",
     "flutter/3. Estructura proyecto.md",
     "flutter/2. Validaciones Correo Usuario.md",
-    "flutter/1Conectar flutter al api.md",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241015162403.png",
-    "RESOLUCION DE PROBLEMAS/IMG RES",
-    "RESOLUCION DE PROBLEMAS",
-    "RESOLUCION DE PROBLEMAS/Resolución de problemas.md",
+    "SONARQUBE/SonarQube API.md",
+    "SONARQUBE/Diapositiva 11y 17.md",
+    "SONARQUBE/Configuración entorno de desarrollo.md",
     "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083506.png",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083556.png",
     "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083451.png",
     "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083422.png",
     "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083409.png",
@@ -213,18 +186,35 @@
     "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083339.png",
     "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241015162450.png",
     "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241015162441.png",
-    "DJANGO/G2. Plantillas.md",
-    "DJANGO/G5. modulo 5 creación de el app django.md",
-    "DOCKER/1. TERMINAL LINUX.md",
+    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241015162428.png",
+    "RESOLUCION DE PROBLEMAS/Resolución de problemas.md",
+    "RESOLUCION DE PROBLEMAS/IMG RES",
+    "RESOLUCION DE PROBLEMAS",
+    "PYTHON/12 @property Python es una herramienta poderosa que permite definir métodos que se comportan como atributos..md",
+    "PRUEBAS UNITARIAS/img pruebas",
+    "PRUEBAS UNITARIAS/1. pytest.md",
+    "PRUEBAS UNITARIAS",
+    "PROYECTO CHEFTABLE V8/1.SOLUCIÓN AL CONTROLLADOR CIERRE.md",
+    "PROYECTO CHEFTABLE V8",
     "LINUX/img consola",
     "LINUX/1. Crear variables de entorno.md",
-    "PRUEBAS UNITARIAS/1. pytest.md",
-    "PRUEBAS UNITARIAS/img pruebas",
-    "PRUEBAS UNITARIAS",
-    "DOCKER/3. Reinicio de un contenedor Docker.md",
-    "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash",
+    "LINUX",
+    "KUBERNETS/2. INSTALACIÓN.md",
+    "KUBERNETS/IMG",
+    "KUBERNETS/1. KUBERNETES.md",
+    "KUBERNETS",
+    "DOCKER/8.Variables de entorno en DOCKER.md",
     "DJANGO/img django/Sin título.canvas",
-    "APIKEY FASTAPI",
-    "DJANGO/img django"
+    "DJANGO/G5. modulo 5 creación de el app django.md",
+    "DJANGO/G4. Depuración de pruebas.md",
+    "DJANGO/img django",
+    "DJANGO/G3. Trabajar con plantillas.md",
+    "DJANGO/G2. Plantillas.md",
+    "DJANGO/G1. Configuración de la conexión MySQL.md",
+    "DJANGO/F8. Hacer cumplir los permisos.md",
+    "DJANGO/F7. ADMINISTRACIÓN.md",
+    "DJANGO/E6. Api de formulario.md",
+    "DJANGO/E5. Modelos Y Formularios.md",
+    "DJANGO/E4.Mapeo de relaciones de objetos - ORM.md"
   ]
 }
