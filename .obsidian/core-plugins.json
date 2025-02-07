@@ -26,6 +26,10 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
+<<<<<<< HEAD
   "sync": false,
   "webviewer": false
+=======
+  "sync": false
+>>>>>>> origin/main
 }
