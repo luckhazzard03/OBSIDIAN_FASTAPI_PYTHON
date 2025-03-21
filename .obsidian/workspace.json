@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea671d8074e24f2c",
+        "id": "e0aba76b23daf501",
         "type": "tabs",
         "children": [
           {
-            "id": "5f31295aa486a1d0",
+            "id": "90f2a53ce6ad39e7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Django Linux/img django linux/Pasted image 20250206071114.png"
+                "file": "Migración modelos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250206071114"
+              "icon": "lucide-file",
+              "title": "Migración modelos"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 335.5
   },
   "right": {
     "id": "c53a1600bd394abb",
@@ -167,54 +169,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "5f31295aa486a1d0",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
-    "flutter/6. Permisos de internet en ANDROID(Flutter).md",
-    "flutter/5. Puerto habilitados API.md",
-    "flutter/4. RUTAS PARA CONSUMIR API RECOMENDACIÓN.md",
-    "flutter/3. Estructura proyecto.md",
-    "flutter/2. Validaciones Correo Usuario.md",
-    "SONARQUBE/SonarQube API.md",
-    "SONARQUBE/Diapositiva 11y 17.md",
-    "SONARQUBE/Configuración entorno de desarrollo.md",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083506.png",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083556.png",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083451.png",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083422.png",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083409.png",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083353.png",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241016083339.png",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241015162450.png",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241015162441.png",
-    "RESOLUCION DE PROBLEMAS/IMG RES/Pasted image 20241015162428.png",
-    "RESOLUCION DE PROBLEMAS/Resolución de problemas.md",
-    "RESOLUCION DE PROBLEMAS/IMG RES",
-    "RESOLUCION DE PROBLEMAS",
+    "Django Linux/INSTALACIÓN.md",
+    "Migración modelos.md",
+    "Django Linux/Herencia de plantillas.md",
+    "Django Linux/plantillas estaticas.md",
+    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820103226.png",
+    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820103453.png",
+    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820102210.png",
+    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820101911.png",
+    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820101513.png",
+    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820100641.png",
+    "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
     "PYTHON/12 @property Python es una herramienta poderosa que permite definir métodos que se comportan como atributos..md",
-    "PRUEBAS UNITARIAS/img pruebas",
-    "PRUEBAS UNITARIAS/1. pytest.md",
-    "PRUEBAS UNITARIAS",
-    "PROYECTO CHEFTABLE V8/1.SOLUCIÓN AL CONTROLLADOR CIERRE.md",
-    "PROYECTO CHEFTABLE V8",
-    "LINUX/img consola",
+    "PYTHON/11. POO Encapsulamiento.md",
+    "PYTHON/10. POO EJERCICIOS ESPESCIFICADOS.md",
+    "PYTHON/9.0 POO.md",
     "LINUX/1. Crear variables de entorno.md",
-    "LINUX",
-    "KUBERNETS/2. INSTALACIÓN.md",
-    "KUBERNETS/IMG",
-    "KUBERNETS/1. KUBERNETES.md",
-    "KUBERNETS",
-    "DOCKER/8.Variables de entorno en DOCKER.md",
-    "DJANGO/img django/Sin título.canvas",
+    "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png",
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904095721.png",
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904093521.png",
+    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904092706.png",
+    "GIT HUB/11. Gestor de Ramas.md",
+    "GIT HUB/0.0 Sistema de control de versiones.md",
+    "FastAPI/2.0 ROUTERS.md",
+    "FastAPI/1.0 MODELS.md",
+    "FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
+    "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/1. Crear proyecto para autenticación.md",
+    "APIKEY FASTAPI/1. APIKEY.md",
     "DJANGO/G5. modulo 5 creación de el app django.md",
-    "DJANGO/G4. Depuración de pruebas.md",
-    "DJANGO/img django",
     "DJANGO/G3. Trabajar con plantillas.md",
     "DJANGO/G2. Plantillas.md",
-    "DJANGO/G1. Configuración de la conexión MySQL.md",
     "DJANGO/F8. Hacer cumplir los permisos.md",
     "DJANGO/F7. ADMINISTRACIÓN.md",
     "DJANGO/E6. Api de formulario.md",
-    "DJANGO/E5. Modelos Y Formularios.md",
-    "DJANGO/E4.Mapeo de relaciones de objetos - ORM.md"
+    "DJANGO/E2 . Modelos que utilizan claves foráneas.md",
+    "DJANGO/E 2. Ejercicio Laboratorio.md",
+    "EJERCICIO PYTHON SENIOR",
+    "RESOLUCION DE PROBLEMAS/IMG RES",
+    "RESOLUCION DE PROBLEMAS",
+    "PRUEBAS UNITARIAS/img pruebas",
+    "PRUEBAS UNITARIAS",
+    "PROYECTO CHEFTABLE V8",
+    "LINUX/img consola",
+    "LINUX",
+    "KUBERNETS/IMG",
+    "KUBERNETS",
+    "DJANGO/img django/Sin título.canvas"
   ]
 }

@@ -106,6 +106,113 @@ Según como lo haya nombrado el proyecto, en este caso lo nombre djangotutorial
 ```c
 $ django-admin startproject mysite djangotutorial
 ```
+
+Sirve para crear una nueva aplicación dentro de tu proyecto Django llamada **"comentarios"**. 
+
+   ```c
+   python3 manage.py startapp comentarios
+   ```
+
+### **¿Qué es una aplicación en Django?**
+
+En Django, un **proyecto** puede estar compuesto por varias **aplicaciones**. Cada aplicación es un módulo independiente con funcionalidades específicas. Por ejemplo, si tienes un sitio web, podrías tener aplicaciones como:
+
+- `usuarios` → Para gestionar autenticación y perfiles.
+- `productos` → Para manejar una tienda en línea.
+- `comentarios` → Para gestionar comentarios en publicaciones.
+##### **Estructura creada por `startapp`**
+
+Cuando ejecutas el comando, Django genera una carpeta llamada `comentarios/` con la siguiente estructura:
+
+   ```c
+  comentarios/
+│── migrations/   # Directorio donde se guardan las migraciones de la base de datos
+│── __init__.py   # Indica que es un paquete de Python
+│── admin.py      # Configuración para el panel de administración de Django
+│── apps.py       # Configuración de la aplicación
+│── models.py     # Definición de los modelos de base de datos
+│── tests.py      # Pruebas unitarias para la aplicación
+│── views.py      # Lógica de la aplicación (vistas)
+
+   ```
+
+
+### **¿Qué hacer después de crearlo?**
+
+### **¿Qué hacer después de crearlo?**
+
+1️⃣ **Registrar la app en el proyecto**  
+Abre el archivo `settings.py` de tu proyecto y agrega la nueva app en `INSTALLED_APPS`:
+
+
+```c
+INSTALLED_APPS = [
+    ...
+    'comentarios',  # Agregamos la nueva aplicación
+]
+
+```
+
+
+2️⃣ **Definir modelos en `models.py`**  
+Aquí defines las tablas que se guardarán en la base de datos. Ejemplo:
+
+
+```c
+from django.db import models
+
+class Comentario(models.Model):
+    usuario = models.CharField(max_length=100)
+    texto = models.TextField()
+    fecha = models.DateTimeField(auto_now_add=True)
+
+```
+
+
+3️⃣ **Crear y aplicar migraciones**  
+Después de definir los modelos, ejecuta:
+
+```c
+python3 manage.py makemigrations comentarios
+python3 manage.py migrate
+```
+
+
+
+4️⃣ **Definir rutas en `views.py` y `urls.py`**
+
+- En `views.py`:
+    
+    ```c
+    from django.http import HttpResponse
+
+    def lista_comentarios(request):
+        return HttpResponse("Lista de comentarios")
+
+    ```
+    
+    
+    
+- En `urls.py` del proyecto:
+    
+```c
+from django.urls import path
+from comentarios.views import lista_comentarios
+
+urlpatterns = [
+    path('comentarios/', lista_comentarios),
+]
+
+```
+    
+        
+
+Ahora, si visitas `http://127.0.0.1:8000/comentarios/`, verás el mensaje "Lista de comentarios".
+
+🔹 **En resumen:** `startapp` crea la estructura de una aplicación en Django, y luego puedes definir modelos, vistas y rutas para hacerla funcional.
+
+
+
 ### 4. **Acceder al directorio de inicio en Ubuntu (WSL): cd ~**
 
 
