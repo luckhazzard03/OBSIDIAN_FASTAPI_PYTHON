@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Extraccion de datos y generados en Excel.md",
+                "file": "COLAB/Extraccion de datos y generados en Excel.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,10 +184,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "812b2bf375a9d84e",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
     "COLAB/Ejercicio extracción de datos pdf creando base de datos.md",
-    "Extraccion de datos y generados en Excel.md",
+    "COLAB/Extraccion de datos y generados en Excel.md",
     "PHP/1. PRUEBAS UNITARIAS CONTROLADORES.md",
     "COLAB",
     "PHP/EJEMPLOS.md",
