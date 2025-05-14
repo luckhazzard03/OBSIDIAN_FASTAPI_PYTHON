@@ -8,45 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fa9783b8a8b3707",
+            "id": "7233f74d5a0e95aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLAB/Ejercicio extracción de datos pdf creando base de datos.md",
+                "file": "Django Linux/BDD Django/RELACION DE UNO A MUCHOS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejercicio extracción de datos pdf creando base de datos"
+              "title": "RELACION DE UNO A MUCHOS"
             }
           },
           {
-            "id": "812b2bf375a9d84e",
+            "id": "9f79997d14788a53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLAB/Extraccion de datos y generados en Excel.md",
+                "file": "Django Linux/BDD Django/RELACION DE UNO A UNO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extraccion de datos y generados en Excel"
+              "title": "RELACION DE UNO A UNO"
             }
           },
           {
-            "id": "738b8e7af549a045",
+            "id": "a3598c5a0a7f02ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COLAB/Excel creación varias hojas con mismo formato.md",
+                "file": "Django Linux/plantillas estaticas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Excel creación varias hojas con mismo formato"
+              "title": "plantillas estaticas"
             }
           }
         ],
@@ -198,54 +198,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "269780bdc71b032e",
+  "active": "a3598c5a0a7f02ab",
   "lastOpenFiles": [
-    "COLAB/Extraccion de datos y generados en Excel.md",
+    "Django Linux/Modularización.md",
+    "Django Linux/INSTALACIÓN.md",
+    "Django Linux/django seed.md",
+    "Django Linux/Comentar varias lineas en Django.md",
+    "RESOLUCION DE PROBLEMAS/Resolución de problemas.md",
+    "Django Linux/BDD Django/RELACION DE MUCHOS A MUCHOS.md",
+    "Django Linux/BDD Django/consulta de datos.md",
+    "Django Linux/BDD Django",
+    "DJANGO/BASES DE DATOS EN Django",
+    "Django Linux/BDD Django/RELACION DE UNO A UNO.md",
+    "Django Linux/BDD Django/RELACION DE UNO A MUCHOS.md",
+    "Django Linux/img django linux/Pasted image 20250514144501.png",
+    "Django Linux/BDD Django/Migración modelos.md",
+    "DJANGO/4. Marcos de trabajo Web y MVT.md",
+    "DJANGO/2. Estructuras de aplicaciones.md",
+    "DJANGO/1.CONFIGURACIÓ ENTORNO VIRTUAL.md",
+    "DJANGO/E6. Api de formulario.md",
+    "DJANGO/D 2. Laboratorio, Creación de direcciones URL y asignación a vistas.md",
+    "DJANGO/C 2 . Parámetros.md",
+    "DJANGO/C 1. Solicitudes y URL.md",
+    "DJANGO/B2. laboratorio crear vistas.md",
+    "DJANGO/B. Vistas modulo 2.md",
+    "DJANGO/B 1. Vista Lógica.md",
+    "DJANGO/Acerca de la evaluación final con calificación del proyecto para el marco de trabajo Django.md",
+    "Django Linux/img django linux/Pasted image 20250505181504.png",
+    "Django Linux/img django linux/Pasted image 20250505181741.png",
+    "Django Linux/img django linux/Pasted image 20250505181708.png",
+    "Django Linux/img django linux/Pasted image 20250505181554.png",
+    "Django Linux/img django linux/Pasted image 20250505175523.png",
+    "Django Linux/Herencia de plantillas.md",
     "COLAB/Excel creación varias hojas con mismo formato.md",
+    "COLAB/Extraccion de datos y generados en Excel.md",
     "COLAB/Ejercicio extracción de datos pdf creando base de datos.md",
     "PHP/1. PRUEBAS UNITARIAS CONTROLADORES.md",
     "COLAB",
-    "PHP/EJEMPLOS.md",
     "PHP",
-    "PHP/3.verificar puerto.md",
-    "Django Linux/Migración modelos.md",
-    "Django Linux/INSTALACIÓN.md",
-    "Django Linux/Herencia de plantillas.md",
-    "Django Linux/plantillas estaticas.md",
     "SONARQUBE/IMAGENES SONAR/Pasted image 20240820103226.png",
     "SONARQUBE/IMAGENES SONAR/Pasted image 20240820103453.png",
     "SONARQUBE/IMAGENES SONAR/Pasted image 20240820102210.png",
     "SONARQUBE/IMAGENES SONAR/Pasted image 20240820101911.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820101513.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820100641.png",
-    "SONARQUBE/1. SERVIDOR COMO CLÚSTER.md",
-    "PYTHON/12 @property Python es una herramienta poderosa que permite definir métodos que se comportan como atributos..md",
-    "PYTHON/11. POO Encapsulamiento.md",
-    "PYTHON/10. POO EJERCICIOS ESPESCIFICADOS.md",
-    "PYTHON/9.0 POO.md",
-    "LINUX/1. Crear variables de entorno.md",
-    "GIT HUB Trabajo_Equipo/1.0 Clonando repositorio.md",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240911082733.png",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904095721.png",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904093521.png",
-    "GIT HUB Trabajo_Equipo/CLONAR REPOSITORIO/IMAGENES EJEMPLO/Pasted image 20240904092706.png",
-    "GIT HUB/11. Gestor de Ramas.md",
-    "GIT HUB/0.0 Sistema de control de versiones.md",
-    "FastAPI/2.0 ROUTERS.md",
-    "FastAPI/1.0 MODELS.md",
-    "FASAPI-SQL/0.0 InstalarSQLAlchemy.md",
-    "AUTENTICACIÓN FASTAPI/fasAPI OAuth git bash/1. Crear proyecto para autenticación.md",
-    "APIKEY FASTAPI/1. APIKEY.md",
-    "DJANGO/G5. modulo 5 creación de el app django.md",
-    "DJANGO/G3. Trabajar con plantillas.md",
     "EJERCICIO PYTHON SENIOR",
     "RESOLUCION DE PROBLEMAS/IMG RES",
     "RESOLUCION DE PROBLEMAS",
     "PRUEBAS UNITARIAS/img pruebas",
     "PRUEBAS UNITARIAS",
     "PROYECTO CHEFTABLE V8",
-    "LINUX/img consola",
-    "LINUX",
     "DJANGO/img django/Sin título.canvas"
   ]
 }
