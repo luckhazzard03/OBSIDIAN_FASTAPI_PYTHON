@@ -4,49 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "a90475a250ac1e41",
+        "id": "582f4033192548c3",
         "type": "tabs",
         "children": [
           {
-            "id": "7233f74d5a0e95aa",
+            "id": "37dca3c84b98a9f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Linux/BDD Django/RELACION DE UNO A MUCHOS.md",
+                "file": "Django Linux/POSTGRESQL/3.visualizar interfaz grafica de postgresql desde ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RELACION DE UNO A MUCHOS"
+              "title": "3.visualizar interfaz grafica de postgresql desde ubuntu"
             }
           },
           {
-            "id": "9f79997d14788a53",
+            "id": "aae94dd56f6f4faf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Linux/BDD Django/RELACION DE UNO A UNO.md",
+                "file": "Django Linux/POSTGRESQL/6.manipular postgresql con python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RELACION DE UNO A UNO"
+              "title": "6.manipular postgresql con python"
             }
           },
           {
-            "id": "a3598c5a0a7f02ab",
+            "id": "2712af6ee6a03631",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Django Linux/img django linux/Pasted image 20250514163243.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250514163243"
+            }
+          },
+          {
+            "id": "1002ee942913c242",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Linux/plantillas estaticas.md",
+                "file": "Django Linux/POSTGRESQL/6.manipular postgresql con python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plantillas estaticas"
+              "title": "6.manipular postgresql con python"
             }
           }
         ],
@@ -198,8 +210,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a3598c5a0a7f02ab",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
+    "Django Linux/POSTGRESQL/3.visualizar interfaz grafica de postgresql desde ubuntu.md",
+    "Django Linux/POSTGRESQL/2.1 Cambiar la contraseña del usuario de postgresql en ubuntu.md",
+    "Django Linux/POSTGRESQL/2. crear usuario base de datos postgresql.md",
+    "Django Linux/POSTGRESQL/1.instalación Postgresql en ubuntu.md",
+    "DOCKER/1. TERMINAL LINUX.md",
+    "Django Linux/POSTGRESQL/6.manipular postgresql con python.md",
+    "Django Linux/POSTGRESQL/5.Conexión a base de datos postgresql.md",
+    "Django Linux/POSTGRESQL/4.ingresar a interfaz de postgresql.md",
+    "Django Linux/img django linux/Pasted image 20250514193513.png",
+    "Django Linux/img django linux/Pasted image 20250514193455.png",
+    "Django Linux/img django linux/Pasted image 20250514193440.png",
+    "Django Linux/img django linux/Pasted image 20250514193230.png",
+    "Django Linux/POSTGRESQL",
+    "Django Linux/img django linux/Pasted image 20250514163243.png",
+    "Django Linux/BDD Django/RELACION DE UNO A UNO.md",
+    "Django Linux/plantillas estaticas.md",
     "Django Linux/Modularización.md",
     "Django Linux/INSTALACIÓN.md",
     "Django Linux/django seed.md",
@@ -209,7 +237,6 @@
     "Django Linux/BDD Django/consulta de datos.md",
     "Django Linux/BDD Django",
     "DJANGO/BASES DE DATOS EN Django",
-    "Django Linux/BDD Django/RELACION DE UNO A UNO.md",
     "Django Linux/BDD Django/RELACION DE UNO A MUCHOS.md",
     "Django Linux/img django linux/Pasted image 20250514144501.png",
     "Django Linux/BDD Django/Migración modelos.md",
@@ -220,32 +247,17 @@
     "DJANGO/D 2. Laboratorio, Creación de direcciones URL y asignación a vistas.md",
     "DJANGO/C 2 . Parámetros.md",
     "DJANGO/C 1. Solicitudes y URL.md",
-    "DJANGO/B2. laboratorio crear vistas.md",
-    "DJANGO/B. Vistas modulo 2.md",
-    "DJANGO/B 1. Vista Lógica.md",
-    "DJANGO/Acerca de la evaluación final con calificación del proyecto para el marco de trabajo Django.md",
     "Django Linux/img django linux/Pasted image 20250505181504.png",
     "Django Linux/img django linux/Pasted image 20250505181741.png",
     "Django Linux/img django linux/Pasted image 20250505181708.png",
     "Django Linux/img django linux/Pasted image 20250505181554.png",
-    "Django Linux/img django linux/Pasted image 20250505175523.png",
-    "Django Linux/Herencia de plantillas.md",
-    "COLAB/Excel creación varias hojas con mismo formato.md",
-    "COLAB/Extraccion de datos y generados en Excel.md",
-    "COLAB/Ejercicio extracción de datos pdf creando base de datos.md",
-    "PHP/1. PRUEBAS UNITARIAS CONTROLADORES.md",
     "COLAB",
     "PHP",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820103226.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820103453.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820102210.png",
-    "SONARQUBE/IMAGENES SONAR/Pasted image 20240820101911.png",
     "EJERCICIO PYTHON SENIOR",
     "RESOLUCION DE PROBLEMAS/IMG RES",
     "RESOLUCION DE PROBLEMAS",
     "PRUEBAS UNITARIAS/img pruebas",
     "PRUEBAS UNITARIAS",
-    "PROYECTO CHEFTABLE V8",
     "DJANGO/img django/Sin título.canvas"
   ]
 }
