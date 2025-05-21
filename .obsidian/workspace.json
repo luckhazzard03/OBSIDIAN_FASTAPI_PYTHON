@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "009e1cc998b0195f",
+        "id": "f60e4c2a6dbfbba8",
         "type": "tabs",
         "children": [
           {
-            "id": "f6bb5b110e6faec9",
+            "id": "22355dab8a51599d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django Linux/BDD Django/DISEÑO MODELO DE DATOS/1.PRACTICA REQUERIMIENTOS.md",
+                "file": "Django Linux/INSTALACIÓN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.PRACTICA REQUERIMIENTOS"
+              "title": "INSTALACIÓN"
+            }
+          },
+          {
+            "id": "6c01a93226b706ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DESPLIEQGUE DE PROYECTO/4. Mantenimiento de proyecto por medio de DOCKER.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Mantenimiento de proyecto por medio de DOCKER"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,19 +184,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f6bb5b110e6faec9",
+  "active": "269780bdc71b032e",
   "lastOpenFiles": [
-    "Pasted image 20250515114641.png",
-    "Pasted image 20250515114407.png",
-    "Pasted image 20250515114223.png",
-    "Pasted image 20250515114131.png",
-    "Pasted image 20250515103750.png",
-    "Pasted image 20250515103718.png",
-    "Pasted image 20250515103646.png",
-    "Pasted image 20250515103542.png",
-    "Pasted image 20250515103443.png",
-    "Pasted image 20250515103354.png",
-    "Django Linux/img django linux/Pasted image 20250515102100.png",
+    "Django Linux/problemas al correr wsl -d.md",
+    "DESPLIEQGUE DE PROYECTO/4. Mantenimiento de proyecto por medio de DOCKER.md",
+    "Django Linux/INSTALACIÓN.md",
+    "DESPLIEQGUE DE PROYECTO/1. DESPLIEGUE.md",
+    "DESPLIEQGUE DE PROYECTO/3. distribucion y licenciamiento para que no copien.md",
+    "DESPLIEQGUE DE PROYECTO/2. EMPAQUETAR EN DOCKER.md",
+    "MySQL/imgMysql/Pasted image 20250520182246.png",
+    "DESPLIEQGUE DE PROYECTO",
+    "MySQL/imgMysql/Pasted image 20250520193742.png",
+    "MySQL/imgMysql",
+    "MySQL",
+    "MySQL/imgMysql/Pasted image 20250520183007.png",
+    "MySQL/imgMysql/Pasted image 20250520182455.png",
+    "Django Linux/img django linux/Pasted image 20250515114641.png",
+    "Django Linux/img django linux/Pasted image 20250515114407.png",
+    "Django Linux/img django linux/Pasted image 20250515114223.png",
+    "Django Linux/img django linux/Pasted image 20250515114131.png",
+    "Django Linux/img django linux/Pasted image 20250515103750.png",
+    "Django Linux/img django linux/Pasted image 20250515103718.png",
+    "MySQL/1. Consultas SQL en MySQL Workbench..md",
+    "preguntasProyecto/1 Peguntas Inferenciales desarrollador.md",
+    "COLAB/Ejercicio extracción de datos pdf creando base de datos.md",
     "Django Linux/BDD Django/DISEÑO MODELO DE DATOS/1.PRACTICA REQUERIMIENTOS.md",
     "Django Linux/BDD Django/DISEÑO MODELO DE DATOS",
     "Django Linux/POSTGRESQL/3.visualizar interfaz grafica de postgresql desde ubuntu.md",
@@ -196,7 +222,6 @@
     "Django Linux/BDD Django/RELACION DE UNO A UNO.md",
     "Django Linux/plantillas estaticas.md",
     "Django Linux/Modularización.md",
-    "Django Linux/INSTALACIÓN.md",
     "Django Linux/django seed.md",
     "Django Linux/Comentar varias lineas en Django.md",
     "RESOLUCION DE PROBLEMAS/Resolución de problemas.md",
@@ -204,19 +229,9 @@
     "Django Linux/BDD Django/consulta de datos.md",
     "Django Linux/BDD Django",
     "DJANGO/BASES DE DATOS EN Django",
-    "Django Linux/BDD Django/RELACION DE UNO A MUCHOS.md",
-    "Django Linux/BDD Django/Migración modelos.md",
-    "DJANGO/4. Marcos de trabajo Web y MVT.md",
-    "DJANGO/2. Estructuras de aplicaciones.md",
-    "DJANGO/1.CONFIGURACIÓ ENTORNO VIRTUAL.md",
-    "DJANGO/E6. Api de formulario.md",
-    "DJANGO/D 2. Laboratorio, Creación de direcciones URL y asignación a vistas.md",
     "COLAB",
     "PHP",
     "EJERCICIO PYTHON SENIOR",
-    "RESOLUCION DE PROBLEMAS/IMG RES",
-    "RESOLUCION DE PROBLEMAS",
-    "PRUEBAS UNITARIAS/img pruebas",
     "DJANGO/img django/Sin título.canvas"
   ]
 }
